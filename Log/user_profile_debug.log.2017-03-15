@@ -1,0 +1,253 @@
+2017-03-15 00:03:20  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:03:21  [ main:342 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:03:21  [ main:376 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:04:01  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:04:01  [ main:299 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:04:01  [ main:321 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:05:19  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:05:19  [ main:327 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:05:19  [ main:344 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:05:59  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:05:59  [ main:325 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:05:59  [ main:337 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:06:37  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:06:38  [ main:305 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:06:38  [ main:314 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:07:19  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:07:20  [ main:319 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:07:20  [ main:334 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:08:03  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:08:04  [ main:324 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:08:04  [ main:334 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:08:33  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:08:33  [ main:302 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:08:33  [ main:310 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:09:04  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:09:04  [ main:328 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:09:04  [ main:344 ] - [ INFO ]  Program_info load 完成
+2017-03-15 00:09:50  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 00:09:51  [ main:295 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 00:09:51  [ main:309 ] - [ INFO ]  Program_info load 完成
+2017-03-15 07:38:25  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 07:38:26  [ main:317 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 07:38:26  [ main:343 ] - [ INFO ]  Program_info load 完成
+2017-03-15 07:47:11  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 07:47:12  [ main:285 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 07:47:12  [ main:304 ] - [ INFO ]  Program_info load 完成
+2017-03-15 07:49:47  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 07:49:47  [ main:304 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 07:49:47  [ main:333 ] - [ INFO ]  Program_info load 完成
+2017-03-15 07:55:31  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 07:55:31  [ main:264 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 07:55:31  [ main:285 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:01:41  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:01:42  [ main:315 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:01:42  [ main:329 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:04:26  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:04:26  [ main:267 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:04:26  [ main:287 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:07:28  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:07:28  [ main:310 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:07:28  [ main:339 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:08:08  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:08:08  [ main:308 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:08:08  [ main:318 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:27:54  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:27:54  [ main:296 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:27:54  [ main:303 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:28:26  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:28:26  [ main:287 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:28:26  [ main:299 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:29:09  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:29:09  [ main:299 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:29:09  [ main:307 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:29:59  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:29:59  [ main:304 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:29:59  [ main:325 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:30:51  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:30:52  [ main:305 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:30:52  [ main:313 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:31:32  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:31:33  [ main:321 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:31:33  [ main:330 ] - [ INFO ]  Program_info load 完成
+2017-03-15 08:31:56  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 08:31:56  [ main:306 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 08:31:56  [ main:314 ] - [ INFO ]  Program_info load 完成
+2017-03-15 10:01:53  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 10:01:54  [ main:281 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 10:01:54  [ main:296 ] - [ INFO ]  Program_info load 完成
+2017-03-15 10:02:25  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 10:02:25  [ main:248 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 10:02:25  [ main:255 ] - [ INFO ]  Program_info load 完成
+2017-03-15 11:22:57  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 11:22:57  [ main:309 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 11:22:57  [ main:329 ] - [ INFO ]  Program_info load 完成
+2017-03-15 11:23:30  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 11:23:30  [ main:291 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 11:23:30  [ main:310 ] - [ INFO ]  Program_info load 完成
+2017-03-15 16:36:45  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 16:36:46  [ main:283 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 16:36:46  [ main:314 ] - [ INFO ]  Program_info load 完成
+2017-03-15 16:53:40  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 16:53:40  [ main:567 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 16:53:40  [ main:617 ] - [ INFO ]  Program_info load 完成
+2017-03-15 16:57:42  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 16:57:42  [ main:345 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 16:57:42  [ main:360 ] - [ INFO ]  Program_info load 完成
+2017-03-15 16:58:51  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 16:58:51  [ main:305 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 16:58:51  [ main:329 ] - [ INFO ]  Program_info load 完成
+2017-03-15 17:00:00  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 17:00:01  [ main:311 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 17:00:01  [ main:329 ] - [ INFO ]  Program_info load 完成
+2017-03-15 17:00:07  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 17:00:07  [ main:423 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 17:00:07  [ main:441 ] - [ INFO ]  Program_info load 完成
+2017-03-15 17:00:13  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 17:00:14  [ main:466 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 17:00:14  [ main:497 ] - [ INFO ]  Program_info load 完成
+2017-03-15 17:00:21  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 17:00:21  [ main:525 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 17:00:21  [ main:549 ] - [ INFO ]  Program_info load 完成
+2017-03-15 17:00:28  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 17:00:29  [ main:714 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 17:00:29  [ main:762 ] - [ INFO ]  Program_info load 完成
+2017-03-15 17:00:39  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-15 17:00:40  [ main:587 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-15 17:00:40  [ main:632 ] - [ INFO ]  Program_info load 完成
+2017-03-15 20:23:45  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 20:23:45  [ main:14 ] - [ INFO ]  Program_info load 完成
+2017-03-15 20:24:35  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 20:24:35  [ main:11 ] - [ INFO ]  Program_info load 完成
+2017-03-15 20:44:52  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 20:44:53  [ main:15 ] - [ INFO ]  Program_info load 完成
+2017-03-15 20:46:06  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 20:46:06  [ main:11 ] - [ INFO ]  Program_info load 完成
+2017-03-15 20:58:24  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 20:58:24  [ main:15 ] - [ INFO ]  Program_info load 完成
+2017-03-15 21:00:14  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 21:00:14  [ main:12 ] - [ INFO ]  Program_info load 完成
+2017-03-15 22:40:49  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 22:40:49  [ main:13 ] - [ INFO ]  Program_info load 完成
+2017-03-15 22:41:34  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 22:41:35  [ main:12 ] - [ INFO ]  Program_info load 完成
+2017-03-15 22:41:35  [ main:559 ] - [ DEBUG ]  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2017-03-15 22:47:09  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有4681条
+2017-03-15 22:47:09  [ main:14 ] - [ INFO ]  Program_info load 完成

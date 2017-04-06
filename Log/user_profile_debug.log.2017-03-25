@@ -1,0 +1,2598 @@
+2017-03-25 10:45:03  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 10:45:04  [ main:1091 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 10:45:08  [ main:5018 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.027125247121758345
+random  :0.018432375857657866
+all_precise:0.01884038955542778
+rate:1.4716088328075712
+2017-03-25 10:45:10  [ main:6390 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02991626933364345
+random  :0.019188277706710083
+all_precise:0.01884038955542778
+rate:1.559090909090909
+2017-03-25 10:46:08  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 10:46:09  [ main:1036 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 10:46:12  [ main:4021 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02942202581695546
+random  :0.018752180486103037
+all_precise:0.01884038955542778
+rate:1.5689922480620153
+2017-03-25 10:46:13  [ main:5454 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030584951738574253
+random  :0.018664961041981627
+all_precise:0.01884038955542778
+rate:1.6386292834890965
+2017-03-25 10:48:55  [ main:1 ] - [ INFO ]  Program_info load 完成
+2017-03-25 10:48:56  [ main:1002 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 10:49:00  [ main:4637 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05497732294452844
+random  :0.017443888824281894
+all_precise:0.01884038955542778
+rate:3.151666666666667
+2017-03-25 10:49:01  [ main:6143 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030003488777764858
+random  :0.017560181416443773
+all_precise:0.01884038955542778
+rate:1.7086092715231789
+2017-03-25 10:58:04  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 10:58:05  [ main:1047 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 10:58:09  [ main:4949 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05334922665426212
+random  :0.020554715664612165
+all_precise:0.01884038955542778
+rate:2.5954738330975955
+2017-03-25 10:58:10  [ main:6204 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03134085358762647
+random  :0.018548668449819748
+all_precise:0.01884038955542778
+rate:1.6896551724137931
+2017-03-25 14:41:40  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 14:41:41  [ main:1013 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 14:41:45  [ main:5203 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05073264333061984
+random  :0.0193627165949529
+all_precise:0.01884038955542778
+rate:2.62012012012012
+2017-03-25 14:41:46  [ main:6589 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029741830445400626
+random  :0.01796720548901035
+all_precise:0.01884038955542778
+rate:1.6553398058252426
+2017-03-25 15:39:44  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 15:39:45  [ main:1063 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 15:39:49  [ main:4912 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.027474124898243982
+random  :0.018984765670426795
+all_precise:0.01884038955542778
+rate:1.447166921898928
+2017-03-25 15:39:51  [ main:6287 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031660658216071634
+random  :0.0193627165949529
+all_precise:0.01884038955542778
+rate:1.635135135135135
+2017-03-25 15:42:36  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 15:42:37  [ main:1033 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 15:42:40  [ main:4337 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.027415978602163042
+random  :0.020147691592045585
+all_precise:0.01884038955542778
+rate:1.3607503607503608
+2017-03-25 15:42:41  [ main:5936 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0294801721130364
+random  :0.01971159437143854
+all_precise:0.01884038955542778
+rate:1.4955752212389382
+2017-03-25 15:47:54  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 15:47:55  [ main:1133 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 15:47:59  [ main:5085 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030439585998371904
+random  :0.018287010117455517
+all_precise:0.01884038955542778
+rate:1.6645468998410176
+2017-03-25 15:48:01  [ main:6457 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03084661007093848
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:1.6373456790123455
+2017-03-25 15:48:28  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 15:48:29  [ main:1057 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 15:48:32  [ main:4292 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03378299802302593
+random  :0.01968252122339807
+all_precise:0.01884038955542778
+rate:1.7163958641063515
+2017-03-25 15:48:33  [ main:5724 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030701244330736132
+random  :0.0196534480753576
+all_precise:0.01884038955542778
+rate:1.5621301775147929
+2017-03-25 15:48:58  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 15:48:59  [ main:992 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 15:49:02  [ main:4229 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.033201535062216535
+random  :0.018548668449819748
+all_precise:0.01884038955542778
+rate:1.7899686520376172
+2017-03-25 15:49:04  [ main:5571 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030032561925805328
+random  :0.01802535178509129
+all_precise:0.01884038955542778
+rate:1.6661290322580646
+2017-03-25 15:58:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 15:58:40  [ main:1021 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 15:58:44  [ main:4996 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05340737295034306
+random  :0.01959530177927666
+all_precise:0.01884038955542778
+rate:2.725519287833828
+2017-03-25 15:58:45  [ main:6445 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030410512850331434
+random  :0.018316083265495987
+all_precise:0.01884038955542778
+rate:1.6603174603174604
+2017-03-25 15:59:09  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 15:59:10  [ main:1009 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 15:59:14  [ main:4417 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.055035469240609376
+random  :0.0181125712292127
+all_precise:0.01884038955542778
+rate:3.038523274478331
+2017-03-25 15:59:15  [ main:5786 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030701244330736132
+random  :0.018926619374345855
+all_precise:0.01884038955542778
+rate:1.6221198156682026
+2017-03-25 15:59:48  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 15:59:49  [ main:987 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 15:59:53  [ main:4664 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.053232934062100244
+random  :0.018432375857657866
+all_precise:0.01884038955542778
+rate:2.88801261829653
+2017-03-25 15:59:54  [ main:6031 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030207000814048146
+random  :0.018897546226305385
+all_precise:0.01884038955542778
+rate:1.5984615384615384
+2017-03-25 16:00:15  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:00:16  [ main:1027 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:00:20  [ main:4636 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.051517618327712525
+random  :0.018752180486103037
+all_precise:0.01884038955542778
+rate:2.7472868217054263
+2017-03-25 16:00:22  [ main:6548 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029654611001279217
+random  :0.018403302709617396
+all_precise:0.01884038955542778
+rate:1.6113744075829384
+2017-03-25 16:00:34  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:00:35  [ main:1017 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:00:39  [ main:4421 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05270961739737179
+random  :0.01947900918711478
+all_precise:0.01884038955542778
+rate:2.7059701492537314
+2017-03-25 16:00:40  [ main:5816 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03084661007093848
+random  :0.019101058262588674
+all_precise:0.01884038955542778
+rate:1.6149162861491628
+2017-03-25 16:00:51  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:00:52  [ main:1017 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:00:55  [ main:4343 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05401790905919293
+random  :0.020554715664612165
+all_precise:0.01884038955542778
+rate:2.628005657708628
+2017-03-25 16:00:57  [ main:5804 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02991626933364345
+random  :0.020234911036166998
+all_precise:0.01884038955542778
+rate:1.478448275862069
+2017-03-25 16:04:17  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:04:18  [ main:1035 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:04:21  [ main:4463 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.053000348877776486
+random  :0.017676474008605652
+all_precise:0.01884038955542778
+rate:2.9983552631578947
+2017-03-25 16:04:23  [ main:5945 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03096290266310036
+random  :0.018664961041981627
+all_precise:0.01884038955542778
+rate:1.658878504672897
+2017-03-25 16:06:03  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:06:04  [ main:1014 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:06:08  [ main:5647 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05602395627398535
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:3.034645669291339
+2017-03-25 16:06:10  [ main:7101 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031369926735666936
+random  :0.01971159437143854
+all_precise:0.01884038955542778
+rate:1.5914454277286136
+2017-03-25 16:06:42  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:06:43  [ main:993 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:06:47  [ main:4446 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05480288405628561
+random  :0.019013838818467264
+all_precise:0.01884038955542778
+rate:2.8822629969418956
+2017-03-25 16:06:48  [ main:5802 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03075939062681707
+random  :0.018577741597860218
+all_precise:0.01884038955542778
+rate:1.6557120500782472
+2017-03-25 16:07:00  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:07:01  [ main:1010 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:07:04  [ main:4539 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.053494592394464476
+random  :0.018432375857657866
+all_precise:0.01884038955542778
+rate:2.902208201892745
+2017-03-25 16:07:06  [ main:5904 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02927666007675311
+random  :0.020147691592045585
+all_precise:0.01884038955542778
+rate:1.4531024531024532
+2017-03-25 16:07:09  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:07:10  [ main:981 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:07:13  [ main:4334 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.055151761832771255
+random  :0.01944993603907431
+all_precise:0.01884038955542778
+rate:2.8355754857997013
+2017-03-25 16:07:14  [ main:5670 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03174787766019305
+random  :0.019886033259681357
+all_precise:0.01884038955542778
+rate:1.5964912280701755
+2017-03-25 16:07:18  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:07:19  [ main:1002 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:07:23  [ main:4540 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05614024886614723
+random  :0.01799627863705082
+all_precise:0.01884038955542778
+rate:3.1195476575121166
+2017-03-25 16:07:24  [ main:5972 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030555878590533783
+random  :0.017821839748808
+all_precise:0.01884038955542778
+rate:1.7145187601957586
+2017-03-25 16:07:54  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:07:55  [ main:1012 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:07:58  [ main:4442 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05596580997790441
+random  :0.017414815676241424
+all_precise:0.01884038955542778
+rate:3.2136894824707847
+2017-03-25 16:08:00  [ main:5783 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03093382951505989
+random  :0.0193627165949529
+all_precise:0.01884038955542778
+rate:1.5975975975975976
+2017-03-25 16:10:09  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:10:10  [ main:1019 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:10:14  [ main:5358 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.055994883125944875
+random  :0.019101058262588674
+all_precise:0.01884038955542778
+rate:2.931506849315068
+2017-03-25 16:10:16  [ main:6736 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031166414699383648
+random  :0.019071985114548204
+all_precise:0.01884038955542778
+rate:1.6341463414634145
+2017-03-25 16:10:32  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:10:33  [ main:979 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:10:37  [ main:4700 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.053232934062100244
+random  :0.020380276776369347
+all_precise:0.01884038955542778
+rate:2.6119828815977173
+2017-03-25 16:10:38  [ main:6158 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030207000814048146
+random  :0.018955692522386325
+all_precise:0.01884038955542778
+rate:1.593558282208589
+2017-03-25 16:10:53  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:10:54  [ main:992 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:10:57  [ main:4416 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0555878590533783
+random  :0.019769740667519478
+all_precise:0.01884038955542778
+rate:2.811764705882353
+2017-03-25 16:10:59  [ main:5900 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031369926735666936
+random  :0.018664961041981627
+all_precise:0.01884038955542778
+rate:1.6806853582554515
+2017-03-25 16:11:14  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 16:11:15  [ main:986 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 16:11:18  [ main:4323 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.054395859983719035
+random  :0.01933364344691243
+all_precise:0.01884038955542778
+rate:2.813533834586466
+2017-03-25 16:11:20  [ main:5695 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030497732294452844
+random  :0.018781253634143506
+all_precise:0.01884038955542778
+rate:1.6238390092879256
+2017-03-25 17:21:11  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:23:04  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:24:14  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:24:15  [ main:1054 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:24:19  [ main:4801 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.053174787766019305
+random  :0.01974066751947901
+all_precise:0.01884038955542778
+rate:2.6936671575846836
+2017-03-25 17:24:20  [ main:6239 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031602511919990695
+random  :0.01787998604488894
+all_precise:0.01884038955542778
+rate:1.7674796747967478
+2017-03-25 17:30:30  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:30:58  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:35:58  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:38:12  [ main:1 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:39:05  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:41:22  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:41:23  [ main:984 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:41:26  [ main:4520 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05619839516222817
+random  :0.018257936969415047
+all_precise:0.01884038955542778
+rate:3.0780254777070066
+2017-03-25 17:41:28  [ main:6050 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030148854517967207
+random  :0.019275497150831492
+all_precise:0.01884038955542778
+rate:1.564102564102564
+2017-03-25 17:42:13  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:42:14  [ main:988 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:42:17  [ main:4450 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03546924060937318
+random  :0.018984765670426795
+all_precise:0.01884038955542778
+rate:1.8683001531393568
+2017-03-25 17:42:19  [ main:6115 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030468659146412374
+random  :0.019042911966507734
+all_precise:0.01884038955542778
+rate:1.5999999999999999
+2017-03-25 17:45:40  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:45:41  [ main:977 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:45:45  [ main:4359 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.04110943132922433
+random  :0.018984765670426795
+all_precise:0.01884038955542778
+rate:2.1653905053598774
+2017-03-25 17:45:46  [ main:5762 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030555878590533783
+random  :0.018490522153738805
+all_precise:0.01884038955542778
+rate:1.6525157232704404
+2017-03-25 17:48:53  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:48:54  [ main:990 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:48:57  [ main:4348 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.038609140597743924
+random  :0.018723107338062567
+all_precise:0.01884038955542778
+rate:2.062111801242236
+2017-03-25 17:48:59  [ main:5745 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030148854517967207
+random  :0.019886033259681357
+all_precise:0.01884038955542778
+rate:1.5160818713450295
+2017-03-25 17:50:20  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:50:21  [ main:1772 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:50:31  [ main:10900 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.039713920223281775
+random  :0.019130131410629143
+all_precise:0.01884038955542778
+rate:2.0759878419452886
+2017-03-25 17:50:35  [ main:15279 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030148854517967207
+random  :0.020205837888126528
+all_precise:0.01884038955542778
+rate:1.4920863309352517
+2017-03-25 17:50:37  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:50:39  [ main:1868 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:50:45  [ main:8241 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.04140016280962903
+random  :0.018287010117455517
+all_precise:0.01884038955542778
+rate:2.263910969793323
+2017-03-25 17:50:49  [ main:11848 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029683684149319687
+random  :0.019217350854750553
+all_precise:0.01884038955542778
+rate:1.5446293494704992
+2017-03-25 17:51:55  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:51:57  [ main:1831 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:52:05  [ main:9649 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05608210257006629
+random  :0.018374229561576926
+all_precise:0.01884038955542778
+rate:3.0522151898734178
+2017-03-25 17:52:09  [ main:13172 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03078846377485754
+random  :0.01796720548901035
+all_precise:0.01884038955542778
+rate:1.7135922330097089
+2017-03-25 17:54:36  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:54:56  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:54:57  [ main:1042 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:55:01  [ main:4716 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05744854052796837
+random  :0.01947900918711478
+all_precise:0.01884038955542778
+rate:2.949253731343284
+2017-03-25 17:55:02  [ main:6377 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030701244330736132
+random  :0.018345156413536456
+all_precise:0.01884038955542778
+rate:1.6735340729001587
+2017-03-25 17:55:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:55:40  [ main:984 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:55:43  [ main:4657 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05904756367019421
+random  :0.020176764740086058
+all_precise:0.01884038955542778
+rate:2.9265129682997117
+2017-03-25 17:55:45  [ main:6063 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03090475636701942
+random  :0.019915106407721827
+all_precise:0.01884038955542778
+rate:1.5518248175182483
+2017-03-25 17:58:23  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 17:58:24  [ main:975 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 17:58:28  [ main:4543 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05869868589370857
+random  :0.018635887893941157
+all_precise:0.01884038955542778
+rate:3.1497659906396254
+2017-03-25 17:58:29  [ main:6088 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031224560995464588
+random  :0.01962437492731713
+all_precise:0.01884038955542778
+rate:1.5911111111111111
+2017-03-25 18:05:40  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:05:41  [ main:1030 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:05:45  [ main:5385 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05715780904756367
+random  :0.019130131410629143
+all_precise:0.01884038955542778
+rate:2.987841945288754
+2017-03-25 18:05:46  [ main:6657 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03183509710431445
+random  :0.020205837888126528
+all_precise:0.01884038955542778
+rate:1.5755395683453235
+2017-03-25 18:08:38  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:08:39  [ main:1025 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:08:43  [ main:5038 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05872775904174904
+random  :0.020031398999883706
+all_precise:0.01884038955542778
+rate:2.9317851959361394
+2017-03-25 18:08:45  [ main:6783 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030032561925805328
+random  :0.01968252122339807
+all_precise:0.01884038955542778
+rate:1.5258493353028066
+2017-03-25 18:10:16  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:10:17  [ main:1023 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:10:21  [ main:4861 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.057593906268170715
+random  :0.020671008256774044
+all_precise:0.01884038955542778
+rate:2.7862165963431784
+2017-03-25 18:10:22  [ main:6240 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030061635073845797
+random  :0.018752180486103037
+all_precise:0.01884038955542778
+rate:1.6031007751937985
+2017-03-25 18:12:34  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:12:51  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:12:52  [ main:1115 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:12:56  [ main:5907 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05695429701128038
+random  :0.019973252703802766
+all_precise:0.01884038955542778
+rate:2.8515283842794763
+2017-03-25 18:12:58  [ main:7292 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030497732294452844
+random  :0.01939178974299337
+all_precise:0.01884038955542778
+rate:1.5727136431784108
+2017-03-25 18:13:11  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:13:12  [ main:1005 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:13:16  [ main:4543 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05486103035236656
+random  :0.017327596232120015
+all_precise:0.01884038955542778
+rate:3.1661073825503356
+2017-03-25 18:13:17  [ main:5858 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03110826840330271
+random  :0.018723107338062567
+all_precise:0.01884038955542778
+rate:1.6614906832298135
+2017-03-25 18:13:47  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:13:48  [ main:1063 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:13:51  [ main:4783 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0552971275729736
+random  :0.01944993603907431
+all_precise:0.01884038955542778
+rate:2.84304932735426
+2017-03-25 18:13:53  [ main:6213 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030265147110129086
+random  :0.01773462030468659
+all_precise:0.01884038955542778
+rate:1.7065573770491804
+2017-03-25 18:14:04  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:14:14  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:14:16  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:14:17  [ main:995 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:14:21  [ main:4550 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05541342016513548
+random  :0.019246424002791022
+all_precise:0.01884038955542778
+rate:2.879154078549849
+2017-03-25 18:14:22  [ main:6110 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030177927666007676
+random  :0.019827886963600418
+all_precise:0.01884038955542778
+rate:1.521994134897361
+2017-03-25 18:14:34  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:14:35  [ main:962 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:14:39  [ main:4519 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05849517385742528
+random  :0.017414815676241424
+all_precise:0.01884038955542778
+rate:3.358931552587646
+2017-03-25 18:14:40  [ main:6038 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030177927666007676
+random  :0.01950808233515525
+all_precise:0.01884038955542778
+rate:1.5469448584202683
+2017-03-25 18:15:03  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:15:04  [ main:1024 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:15:08  [ main:4807 ] - [ DEBUG ]  TOP_N: 2, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05985192076598054
+random  :0.019575919680583014
+all_precise:0.01884038955542778
+rate:3.057425742574257
+2017-03-25 18:15:10  [ main:6166 ] - [ DEBUG ]  TOP_N: 2, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029266969027406286
+random  :0.01942086289103384
+all_precise:0.01884038955542778
+rate:1.5069860279441116
+2017-03-25 18:15:21  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:15:22  [ main:1024 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:15:26  [ main:4590 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.056256541458309106
+random  :0.01971159437143854
+all_precise:0.01884038955542778
+rate:2.853982300884956
+2017-03-25 18:15:27  [ main:5908 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030381439702290965
+random  :0.01808349808117223
+all_precise:0.01884038955542778
+rate:1.6800643086816722
+2017-03-25 18:17:36  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:17:37  [ main:962 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:17:41  [ main:4377 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05715780904756367
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:3.0339506172839505
+2017-03-25 18:17:42  [ main:5696 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03084661007093848
+random  :0.019042911966507734
+all_precise:0.01884038955542778
+rate:1.6198473282442747
+2017-03-25 18:18:19  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:18:20  [ main:986 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:18:24  [ main:4443 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05634376090243051
+random  :0.018257936969415047
+all_precise:0.01884038955542778
+rate:3.0859872611464967
+2017-03-25 18:18:25  [ main:5760 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030643098034655192
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:1.626543209876543
+2017-03-25 18:18:55  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:18:56  [ main:988 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:18:59  [ main:4488 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05916385626235609
+random  :0.01787998604488894
+all_precise:0.01884038955542778
+rate:3.3089430894308944
+2017-03-25 18:19:01  [ main:5766 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029799976741481566
+random  :0.01942086289103384
+all_precise:0.01884038955542778
+rate:1.5344311377245508
+2017-03-25 18:19:15  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:19:16  [ main:1021 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:19:20  [ main:4461 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05704151645540179
+random  :0.01959530177927666
+all_precise:0.01884038955542778
+rate:2.910979228486647
+2017-03-25 18:19:21  [ main:5745 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.028433538783579487
+random  :0.018752180486103037
+all_precise:0.01884038955542778
+rate:1.5162790697674418
+2017-03-25 18:19:24  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:19:25  [ main:968 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:19:28  [ main:4512 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.056372834050470985
+random  :0.018577741597860218
+all_precise:0.01884038955542778
+rate:3.034428794992175
+2017-03-25 18:19:30  [ main:5847 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03075939062681707
+random  :0.017153157343877196
+all_precise:0.01884038955542778
+rate:1.7932203389830508
+2017-03-25 18:19:43  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:19:44  [ main:1009 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:19:46  [ main:3452 ] - [ DEBUG ]  TOP_N: 4, MIN_WATCH_CNT: 20
+user_cnt:2655
+precise :0.0671186440677966
+random  :0.023728813559322035
+all_precise:0.024352618953013744
+rate:2.8285714285714283
+2017-03-25 18:19:47  [ main:3936 ] - [ DEBUG ]  TOP_N: 4, MIN_WATCH_CNT: 20
+user_cnt:2655
+precise :0.0408286252354049
+random  :0.025235404896421846
+all_precise:0.024352618953013744
+rate:1.617910447761194
+2017-03-25 18:19:57  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:19:58  [ main:972 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:20:01  [ main:4211 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 16
+user_cnt:6867
+precise :0.059414591524683265
+random  :0.01871268385029853
+all_precise:0.019494219770085187
+rate:3.1750972762645913
+2017-03-25 18:20:02  [ main:5202 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 16
+user_cnt:6867
+precise :0.03127275374981797
+random  :0.01834862385321101
+all_precise:0.019494219770085187
+rate:1.7043650793650793
+2017-03-25 18:20:14  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:20:15  [ main:977 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:20:18  [ main:4012 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 17
+user_cnt:5517
+precise :0.0580931665760377
+random  :0.021252492296537973
+all_precise:0.02026874001577255
+rate:2.7334754797441363
+2017-03-25 18:20:19  [ main:4967 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 17
+user_cnt:5517
+precise :0.03054196121080297
+random  :0.020844661953960487
+all_precise:0.02026874001577255
+rate:1.4652173913043476
+2017-03-25 18:20:42  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:20:43  [ main:982 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:20:47  [ main:4811 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 14
+user_cnt:10567
+precise :0.051977855588151795
+random  :0.0181461152645027
+all_precise:0.017334668815959017
+rate:2.864406779661017
+2017-03-25 18:20:48  [ main:6377 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 14
+user_cnt:10567
+precise :0.028768808554935174
+random  :0.017814895429166273
+all_precise:0.017334668815959017
+rate:1.6148738379814076
+2017-03-25 18:20:59  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:21:00  [ main:1016 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:21:04  [ main:4883 ] - [ DEBUG ]  TOP_N: 5, MIN_WATCH_CNT: 14
+user_cnt:10567
+precise :0.047963786631336554
+random  :0.017617740765275544
+all_precise:0.017334668815959017
+rate:2.7224709042076993
+2017-03-25 18:21:05  [ main:6468 ] - [ DEBUG ]  TOP_N: 5, MIN_WATCH_CNT: 14
+user_cnt:10567
+precise :0.03241222674363585
+random  :0.016545219393709978
+all_precise:0.017334668815959017
+rate:1.9590085795996188
+2017-03-25 18:21:24  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:21:25  [ main:984 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:21:29  [ main:5063 ] - [ DEBUG ]  TOP_N: 4, MIN_WATCH_CNT: 14
+user_cnt:10567
+precise :0.049474779975395095
+random  :0.017904797955900446
+all_precise:0.017334668815959017
+rate:2.7632135306553907
+2017-03-25 18:21:31  [ main:6551 ] - [ DEBUG ]  TOP_N: 4, MIN_WATCH_CNT: 14
+user_cnt:10567
+precise :0.028806662250402196
+random  :0.017696602630831833
+all_precise:0.017334668815959017
+rate:1.6278074866310162
+2017-03-25 18:21:38  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:21:39  [ main:967 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:21:43  [ main:4464 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.057768345156413534
+random  :0.01787998604488894
+all_precise:0.01884038955542778
+rate:3.2308943089430895
+2017-03-25 18:21:44  [ main:5832 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03075939062681707
+random  :0.018490522153738805
+all_precise:0.01884038955542778
+rate:1.6635220125786165
+2017-03-25 18:22:24  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:22:25  [ main:989 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:22:28  [ main:4496 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05689615071519944
+random  :0.018490522153738805
+all_precise:0.01884038955542778
+rate:3.077044025157233
+2017-03-25 18:22:29  [ main:5874 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03215490173275962
+random  :0.020234911036166998
+all_precise:0.01884038955542778
+rate:1.589080459770115
+2017-03-25 18:22:34  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:22:35  [ main:988 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:22:39  [ main:4568 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05628561460634957
+random  :0.019013838818467264
+all_precise:0.01884038955542778
+rate:2.9602446483180427
+2017-03-25 18:22:40  [ main:5860 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03110826840330271
+random  :0.018606814745900688
+all_precise:0.01884038955542778
+rate:1.6718749999999998
+2017-03-25 18:23:05  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:23:06  [ main:1030 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:23:10  [ main:4701 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.054773810908245145
+random  :0.020089545295964645
+all_precise:0.01884038955542778
+rate:2.7264833574529668
+2017-03-25 18:23:11  [ main:6024 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030497732294452844
+random  :0.018577741597860218
+all_precise:0.01884038955542778
+rate:1.6416275430359937
+2017-03-25 18:23:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:23:40  [ main:1008 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:23:44  [ main:4550 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05701244330736132
+random  :0.01942086289103384
+all_precise:0.01884038955542778
+rate:2.93562874251497
+2017-03-25 18:23:45  [ main:6027 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031166414699383648
+random  :0.01959530177927666
+all_precise:0.01884038955542778
+rate:1.5905044510385757
+2017-03-25 18:25:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:25:40  [ main:1024 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:25:43  [ main:4591 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.055878590533782996
+random  :0.01939178974299337
+all_precise:0.01884038955542778
+rate:2.881559220389805
+2017-03-25 18:25:45  [ main:6037 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.028055587859053377
+random  :0.019304570298871962
+all_precise:0.01884038955542778
+rate:1.453313253012048
+2017-03-25 18:26:20  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:26:21  [ main:1043 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:26:25  [ main:4678 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0503837655541342
+random  :0.018723107338062567
+all_precise:0.01884038955542778
+rate:2.6909937888198754
+2017-03-25 18:26:27  [ main:6225 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.028840562856146064
+random  :0.017385742528200954
+all_precise:0.01884038955542778
+rate:1.6588628762541806
+2017-03-25 18:26:36  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:26:37  [ main:1015 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:26:41  [ main:4565 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.058204442377020583
+random  :0.019101058262588674
+all_precise:0.01884038955542778
+rate:3.0471841704718416
+2017-03-25 18:26:42  [ main:5924 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029654611001279217
+random  :0.018403302709617396
+all_precise:0.01884038955542778
+rate:1.6113744075829384
+2017-03-25 18:27:24  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:27:25  [ main:992 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:27:28  [ main:4469 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.057652052564251655
+random  :0.019304570298871962
+all_precise:0.01884038955542778
+rate:2.98644578313253
+2017-03-25 18:27:30  [ main:5843 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029538318409117338
+random  :0.018606814745900688
+all_precise:0.01884038955542778
+rate:1.5875
+2017-03-25 18:27:34  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:27:35  [ main:967 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:27:38  [ main:4577 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.058407954413303875
+random  :0.01953715548319572
+all_precise:0.01884038955542778
+rate:2.9895833333333335
+2017-03-25 18:27:40  [ main:6021 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031224560995464588
+random  :0.01956622863123619
+all_precise:0.01884038955542778
+rate:1.5958395245170875
+2017-03-25 18:27:52  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:27:53  [ main:1017 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:27:57  [ main:4526 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05718688219560414
+random  :0.018781253634143506
+all_precise:0.01884038955542778
+rate:3.0448916408668727
+2017-03-25 18:27:58  [ main:5813 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031864170252354926
+random  :0.01796720548901035
+all_precise:0.01884038955542778
+rate:1.773462783171521
+2017-03-25 18:28:09  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:28:10  [ main:991 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:28:14  [ main:4550 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05672171182695662
+random  :0.01790905919292941
+all_precise:0.01884038955542778
+rate:3.167207792207792
+2017-03-25 18:28:15  [ main:5868 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030294220258169555
+random  :0.018635887893941157
+all_precise:0.01884038955542778
+rate:1.625585023400936
+2017-03-25 18:28:28  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:28:29  [ main:980 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:28:33  [ main:4511 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05660541923479474
+random  :0.019159204558669613
+all_precise:0.01884038955542778
+rate:2.954476479514416
+2017-03-25 18:28:34  [ main:5811 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030555878590533783
+random  :0.018810326782183976
+all_precise:0.01884038955542778
+rate:1.624420401854714
+2017-03-25 18:28:38  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:28:39  [ main:980 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:28:42  [ main:4627 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05596580997790441
+random  :0.019130131410629143
+all_precise:0.01884038955542778
+rate:2.925531914893617
+2017-03-25 18:28:44  [ main:5907 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030148854517967207
+random  :0.01947900918711478
+all_precise:0.01884038955542778
+rate:1.5477611940298508
+2017-03-25 18:28:52  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:28:53  [ main:1015 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:28:57  [ main:4554 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.058146296080939644
+random  :0.018228863821374577
+all_precise:0.01884038955542778
+rate:3.189792663476874
+2017-03-25 18:28:58  [ main:5865 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030614024886614723
+random  :0.01933364344691243
+all_precise:0.01884038955542778
+rate:1.5834586466165415
+2017-03-25 18:29:01  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:29:02  [ main:971 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:29:06  [ main:4387 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05773927200837307
+random  :0.019246424002791022
+all_precise:0.01884038955542778
+rate:3.0
+2017-03-25 18:29:07  [ main:5698 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030439585998371904
+random  :0.0196534480753576
+all_precise:0.01884038955542778
+rate:1.5488165680473374
+2017-03-25 18:29:12  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:29:13  [ main:948 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:29:16  [ main:4383 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.057593906268170715
+random  :0.020234911036166998
+all_precise:0.01884038955542778
+rate:2.8462643678160915
+2017-03-25 18:29:18  [ main:5728 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029829049889522036
+random  :0.019217350854750553
+all_precise:0.01884038955542778
+rate:1.5521936459909227
+2017-03-25 18:29:21  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:29:22  [ main:998 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:29:26  [ main:4518 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05596580997790441
+random  :0.018374229561576926
+all_precise:0.01884038955542778
+rate:3.0458860759493676
+2017-03-25 18:29:27  [ main:5858 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029625537853238747
+random  :0.018519595301779275
+all_precise:0.01884038955542778
+rate:1.599686028257457
+2017-03-25 18:29:38  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:29:39  [ main:993 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:29:43  [ main:4541 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05590766368182347
+random  :0.018432375857657866
+all_precise:0.01884038955542778
+rate:3.0331230283911674
+2017-03-25 18:29:44  [ main:5872 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031806023956273986
+random  :0.0193627165949529
+all_precise:0.01884038955542778
+rate:1.6426426426426426
+2017-03-25 18:29:50  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:29:51  [ main:959 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:29:55  [ main:4503 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.055326200721014074
+random  :0.0181125712292127
+all_precise:0.01884038955542778
+rate:3.054574638844302
+2017-03-25 18:29:56  [ main:5890 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031544365623909755
+random  :0.01799627863705082
+all_precise:0.01884038955542778
+rate:1.752827140549273
+2017-03-25 18:30:12  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:30:13  [ main:997 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:30:17  [ main:4734 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0555878590533783
+random  :0.01942086289103384
+all_precise:0.01884038955542778
+rate:2.8622754491017965
+2017-03-25 18:30:18  [ main:6080 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029712757297360157
+random  :0.01773462030468659
+all_precise:0.01884038955542778
+rate:1.6754098360655736
+2017-03-25 18:30:28  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:30:29  [ main:993 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:30:33  [ main:4487 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.057768345156413534
+random  :0.01953715548319572
+all_precise:0.01884038955542778
+rate:2.956845238095238
+2017-03-25 18:30:34  [ main:5794 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030061635073845797
+random  :0.020031398999883706
+all_precise:0.01884038955542778
+rate:1.5007256894049348
+2017-03-25 18:30:53  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:30:54  [ main:984 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:30:57  [ main:4490 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0571287358995232
+random  :0.01790905919292941
+all_precise:0.01884038955542778
+rate:3.189935064935065
+2017-03-25 18:30:59  [ main:5853 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030265147110129086
+random  :0.018694034190022097
+all_precise:0.01884038955542778
+rate:1.6189735614307932
+2017-03-25 18:31:05  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:31:06  [ main:970 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:31:10  [ main:4571 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05570415164554018
+random  :0.019915106407721827
+all_precise:0.01884038955542778
+rate:2.797080291970803
+2017-03-25 18:31:11  [ main:5938 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0294801721130364
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:1.5968503937007874
+2017-03-25 18:31:14  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:31:15  [ main:981 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:31:19  [ main:4604 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.057768345156413534
+random  :0.018635887893941157
+all_precise:0.01884038955542778
+rate:3.09984399375975
+2017-03-25 18:31:20  [ main:5961 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03081753692289801
+random  :0.019042911966507734
+all_precise:0.01884038955542778
+rate:1.618320610687023
+2017-03-25 18:31:37  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:31:38  [ main:991 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:31:41  [ main:4561 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05032561925805326
+random  :0.019071985114548204
+all_precise:0.01884038955542778
+rate:2.638719512195122
+2017-03-25 18:31:43  [ main:5957 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030177927666007676
+random  :0.018228863821374577
+all_precise:0.01884038955542778
+rate:1.6555023923444978
+2017-03-25 18:31:55  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:31:56  [ main:1006 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:32:00  [ main:4401 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05294220258169555
+random  :0.018781253634143506
+all_precise:0.01884038955542778
+rate:2.8188854489164084
+2017-03-25 18:32:01  [ main:5720 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030439585998371904
+random  :0.018694034190022097
+all_precise:0.01884038955542778
+rate:1.6283048211508553
+2017-03-25 18:34:36  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:34:37  [ main:964 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:34:42  [ main:5438 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.056372834050470985
+random  :0.01959530177927666
+all_precise:0.01884038955542778
+rate:2.876854599406528
+2017-03-25 18:34:43  [ main:6782 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029712757297360157
+random  :0.01950808233515525
+all_precise:0.01884038955542778
+rate:1.5230998509687035
+2017-03-25 18:34:47  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:34:48  [ main:994 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:34:52  [ main:4530 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05704151645540179
+random  :0.018781253634143506
+all_precise:0.01884038955542778
+rate:3.0371517027863777
+2017-03-25 18:34:53  [ main:5885 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0310210489591813
+random  :0.018519595301779275
+all_precise:0.01884038955542778
+rate:1.675039246467818
+2017-03-25 18:35:01  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:35:02  [ main:938 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:35:05  [ main:4428 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05512268868473078
+random  :0.018926619374345855
+all_precise:0.01884038955542778
+rate:2.912442396313364
+2017-03-25 18:35:07  [ main:5776 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030672171182695662
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:1.6614173228346458
+2017-03-25 18:35:49  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:35:50  [ main:1027 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:35:54  [ main:4693 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.04895918130015118
+random  :0.017560181416443773
+all_precise:0.01884038955542778
+rate:2.7880794701986753
+2017-03-25 18:35:55  [ main:6279 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030323293406210025
+random  :0.018257936969415047
+all_precise:0.01884038955542778
+rate:1.6608280254777072
+2017-03-25 18:38:12  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:38:13  [ main:967 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:38:17  [ main:5306 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.057768345156413534
+random  :0.01933364344691243
+all_precise:0.01884038955542778
+rate:2.9879699248120297
+2017-03-25 18:38:18  [ main:6644 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.033085242470054656
+random  :0.018694034190022097
+all_precise:0.01884038955542778
+rate:1.769828926905132
+2017-03-25 18:38:44  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:38:45  [ main:1007 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:38:48  [ main:4422 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.04096406558902198
+random  :0.018199790673334108
+all_precise:0.01884038955542778
+rate:2.2507987220447285
+2017-03-25 18:38:49  [ main:5657 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03125363414350506
+random  :0.019217350854750553
+all_precise:0.01884038955542778
+rate:1.626323751891074
+2017-03-25 18:39:20  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:39:21  [ main:977 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:39:25  [ main:4626 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.054890103500407024
+random  :0.019101058262588674
+all_precise:0.01884038955542778
+rate:2.8736681887366817
+2017-03-25 18:39:26  [ main:6219 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03084661007093848
+random  :0.019101058262588674
+all_precise:0.01884038955542778
+rate:1.6149162861491628
+2017-03-25 18:39:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:39:40  [ main:1086 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:39:44  [ main:4733 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0555878590533783
+random  :0.019042911966507734
+all_precise:0.01884038955542778
+rate:2.9190839694656487
+2017-03-25 18:39:45  [ main:6178 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031980462844516805
+random  :0.01956622863123619
+all_precise:0.01884038955542778
+rate:1.6344725111441307
+2017-03-25 18:39:55  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:39:56  [ main:1028 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:40:00  [ main:4616 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05570415164554018
+random  :0.020060472147924176
+all_precise:0.01884038955542778
+rate:2.776811594202899
+2017-03-25 18:40:01  [ main:5920 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030090708221886267
+random  :0.018723107338062567
+all_precise:0.01884038955542778
+rate:1.607142857142857
+2017-03-25 18:40:13  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:40:27  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:40:28  [ main:1008 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:40:32  [ main:4562 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05468659146412373
+random  :0.01944993603907431
+all_precise:0.01884038955542778
+rate:2.811659192825112
+2017-03-25 18:40:33  [ main:5913 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.028985928596348413
+random  :0.018868473078264916
+all_precise:0.01884038955542778
+rate:1.5362095531587057
+2017-03-25 18:41:06  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:41:07  [ main:982 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:41:10  [ main:4478 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.058088149784858704
+random  :0.018374229561576926
+all_precise:0.01884038955542778
+rate:3.1613924050632916
+2017-03-25 18:41:12  [ main:5826 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030294220258169555
+random  :0.01944993603907431
+all_precise:0.01884038955542778
+rate:1.5575485799701048
+2017-03-25 18:41:17  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:41:18  [ main:961 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:41:21  [ main:4578 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.059512734038841726
+random  :0.019101058262588674
+all_precise:0.01884038955542778
+rate:3.115677321156773
+2017-03-25 18:41:23  [ main:5859 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03177695080823351
+random  :0.01944993603907431
+all_precise:0.01884038955542778
+rate:1.6337817638266068
+2017-03-25 18:41:27  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:41:28  [ main:1005 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:41:31  [ main:4543 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.056489126642632864
+random  :0.019275497150831492
+all_precise:0.01884038955542778
+rate:2.9306184012066363
+2017-03-25 18:41:32  [ main:5844 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029654611001279217
+random  :0.019217350854750553
+all_precise:0.01884038955542778
+rate:1.5431164901664145
+2017-03-25 18:41:35  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:41:36  [ main:954 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:41:40  [ main:4514 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05701244330736132
+random  :0.01779276660076753
+all_precise:0.01884038955542778
+rate:3.204248366013072
+2017-03-25 18:41:41  [ main:5908 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029712757297360157
+random  :0.018984765670426795
+all_precise:0.01884038955542778
+rate:1.565084226646248
+2017-03-25 18:41:45  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:41:46  [ main:1001 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:41:50  [ main:4717 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05904756367019421
+random  :0.018955692522386325
+all_precise:0.01884038955542778
+rate:3.1150306748466257
+2017-03-25 18:41:51  [ main:6029 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03107919525526224
+random  :0.01968252122339807
+all_precise:0.01884038955542778
+rate:1.5790251107828657
+2017-03-25 18:42:01  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 18:42:02  [ main:968 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 18:42:06  [ main:4559 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.058582393301546694
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:3.109567901234568
+2017-03-25 18:42:07  [ main:5920 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029799976741481566
+random  :0.018635887893941157
+all_precise:0.01884038955542778
+rate:1.5990639625585021
+2017-03-25 19:01:45  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:01:46  [ main:957 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 19:01:50  [ main:4615 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.059367368298639374
+random  :0.018810326782183976
+all_precise:0.01884038955542778
+rate:3.156105100463678
+2017-03-25 19:01:51  [ main:6066 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.032096755436678684
+random  :0.018868473078264916
+all_precise:0.01884038955542778
+rate:1.7010785824345145
+2017-03-25 19:02:58  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:02:59  [ main:989 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 19:03:02  [ main:3866 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05154669147575299
+random  :0.020205837888126528
+all_precise:0.01884038955542778
+rate:2.551079136690647
+2017-03-25 19:03:03  [ main:5090 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03183509710431445
+random  :0.019013838818467264
+all_precise:0.01884038955542778
+rate:1.6743119266055044
+2017-03-25 19:03:20  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:03:21  [ main:987 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 19:03:25  [ main:4481 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05707058960344226
+random  :0.018752180486103037
+all_precise:0.01884038955542778
+rate:3.043410852713178
+2017-03-25 19:03:26  [ main:5778 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030497732294452844
+random  :0.017414815676241424
+all_precise:0.01884038955542778
+rate:1.7512520868113521
+2017-03-25 19:05:56  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:05:57  [ main:948 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6661条
+2017-03-25 19:06:01  [ main:4511 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05689615071519944
+random  :0.01962437492731713
+all_precise:0.01884038955542778
+rate:2.899259259259259
+2017-03-25 19:06:02  [ main:5881 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031311780439586
+random  :0.01942086289103384
+all_precise:0.01884038955542778
+rate:1.6122754491017963
+2017-03-25 19:06:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:06:40  [ main:972 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有6135条
+2017-03-25 19:06:43  [ main:4556 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05849517385742528
+random  :0.020700081404814514
+all_precise:0.01884038955542778
+rate:2.825842696629213
+2017-03-25 19:06:45  [ main:5921 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02921851378067217
+random  :0.017589254564484243
+all_precise:0.01884038955542778
+rate:1.6611570247933884
+2017-03-25 19:07:07  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:07:08  [ main:965 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:07:11  [ main:4524 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06151878125363414
+random  :0.01968252122339807
+all_precise:0.01884038955542778
+rate:3.1255539143279174
+2017-03-25 19:07:12  [ main:5871 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030555878590533783
+random  :0.018345156413536456
+all_precise:0.01884038955542778
+rate:1.665610142630745
+2017-03-25 19:08:14  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:08:15  [ main:985 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:08:18  [ main:4571 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05928014885451797
+random  :0.018984765670426795
+all_precise:0.01884038955542778
+rate:3.122511485451761
+2017-03-25 19:08:20  [ main:5907 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029015001744388882
+random  :0.019071985114548204
+all_precise:0.01884038955542778
+rate:1.521341463414634
+2017-03-25 19:08:22  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:08:23  [ main:946 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:08:27  [ main:4543 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.060791952552622396
+random  :0.01942086289103384
+all_precise:0.01884038955542778
+rate:3.1302395209580838
+2017-03-25 19:08:28  [ main:5827 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03096290266310036
+random  :0.018635887893941157
+all_precise:0.01884038955542778
+rate:1.661466458658346
+2017-03-25 19:08:32  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:08:33  [ main:959 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:08:36  [ main:4620 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05910570996627515
+random  :0.018752180486103037
+all_precise:0.01884038955542778
+rate:3.151937984496124
+2017-03-25 19:08:38  [ main:5954 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03168973136411211
+random  :0.01785091289684847
+all_precise:0.01884038955542778
+rate:1.7752442996742672
+2017-03-25 19:12:02  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:12:03  [ main:942 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:12:07  [ main:4517 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06108268403302709
+random  :0.018955692522386325
+all_precise:0.01884038955542778
+rate:3.2223926380368093
+2017-03-25 19:12:08  [ main:5849 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03145714617978835
+random  :0.018548668449819748
+all_precise:0.01884038955542778
+rate:1.695924764890282
+2017-03-25 19:15:33  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:15:34  [ main:16 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:17:18  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:17:19  [ main:974 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:17:23  [ main:4768 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05898941737411327
+random  :0.01796720548901035
+all_precise:0.01884038955542778
+rate:3.283171521035599
+2017-03-25 19:17:25  [ main:6266 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03113734155134318
+random  :0.018345156413536456
+all_precise:0.01884038955542778
+rate:1.6973058637083995
+2017-03-25 19:17:29  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:17:30  [ main:987 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:17:34  [ main:4524 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05794278404465635
+random  :0.019827886963600418
+all_precise:0.01884038955542778
+rate:2.9222873900293256
+2017-03-25 19:17:35  [ main:5969 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03174787766019305
+random  :0.018519595301779275
+all_precise:0.01884038955542778
+rate:1.7142857142857144
+2017-03-25 19:17:40  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:17:41  [ main:1013 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:17:45  [ main:4748 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05910570996627515
+random  :0.018810326782183976
+all_precise:0.01884038955542778
+rate:3.1421947449768157
+2017-03-25 19:17:46  [ main:6177 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02927666007675311
+random  :0.018897546226305385
+all_precise:0.01884038955542778
+rate:1.5492307692307692
+2017-03-25 19:17:56  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:17:57  [ main:1103 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:18:01  [ main:5294 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.059251075706477495
+random  :0.018955692522386325
+all_precise:0.01884038955542778
+rate:3.125766871165644
+2017-03-25 19:18:03  [ main:7050 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030207000814048146
+random  :0.018519595301779275
+all_precise:0.01884038955542778
+rate:1.631083202511774
+2017-03-25 19:20:31  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:20:32  [ main:1001 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:20:36  [ main:4631 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06256541458309106
+random  :0.01959530177927666
+all_precise:0.01884038955542778
+rate:3.192878338278932
+2017-03-25 19:21:35  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:21:36  [ main:1004 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:21:40  [ main:4663 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0651238516106524
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:3.45679012345679
+2017-03-25 19:21:41  [ main:6255 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030643098034655192
+random  :0.01968252122339807
+all_precise:0.01884038955542778
+rate:1.5568685376661744
+2017-03-25 19:22:32  [ main:1 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:22:33  [ main:1036 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:22:36  [ main:4540 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0641644377253169
+random  :0.01939178974299337
+all_precise:0.01884038955542778
+rate:3.308845577211394
+2017-03-25 19:22:38  [ main:6236 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030207000814048146
+random  :0.019071985114548204
+all_precise:0.01884038955542778
+rate:1.583841463414634
+2017-03-25 19:22:47  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:22:48  [ main:960 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:22:51  [ main:4327 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06497848587045005
+random  :0.019071985114548204
+all_precise:0.01884038955542778
+rate:3.407012195121951
+2017-03-25 19:22:53  [ main:5937 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03177695080823351
+random  :0.018868473078264916
+all_precise:0.01884038955542778
+rate:1.6841294298921414
+2017-03-25 19:22:56  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:22:57  [ main:1010 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:23:01  [ main:4486 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06590882660774508
+random  :0.018548668449819748
+all_precise:0.01884038955542778
+rate:3.553291536050156
+2017-03-25 19:23:02  [ main:5973 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031428073031747876
+random  :0.017531108268403303
+all_precise:0.01884038955542778
+rate:1.792703150912106
+2017-03-25 19:23:06  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:23:07  [ main:954 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:23:10  [ main:4390 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06352482846842657
+random  :0.018141644377253168
+all_precise:0.01884038955542778
+rate:3.5016025641025648
+2017-03-25 19:23:12  [ main:5775 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030497732294452844
+random  :0.018810326782183976
+all_precise:0.01884038955542778
+rate:1.6213292117465223
+2017-03-25 19:49:33  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 19:49:34  [ main:999 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 19:49:38  [ main:4509 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06439702290964065
+random  :0.019188277706710083
+all_precise:0.01884038955542778
+rate:3.356060606060606
+2017-03-25 19:49:39  [ main:6112 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03107919525526224
+random  :0.019856960111640887
+all_precise:0.01884038955542778
+rate:1.5651537335285506
+2017-03-25 21:02:19  [ main:0 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:02:19  [ main:18 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:04:17  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:04:18  [ main:1242 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:15:05  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:15:07  [ main:1085 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:34:44  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:34:45  [ main:1002 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:35:55  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:35:56  [ main:987 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:36:53  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:36:54  [ main:1006 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:38:41  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:38:42  [ main:1020 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:39:59  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:40:00  [ main:971 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:41:24  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:41:25  [ main:996 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:47:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:49:04  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:49:05  [ main:993 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:49:09  [ main:4889 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06526921735085475
+random  :0.018955692522386325
+all_precise:0.01884038955542778
+rate:3.4432515337423313
+2017-03-25 21:49:11  [ main:6595 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030381439702290965
+random  :0.018257936969415047
+all_precise:0.01884038955542778
+rate:1.6640127388535033
+2017-03-25 21:51:24  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:51:25  [ main:1046 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:53:31  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:53:32  [ main:988 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:54:24  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:54:25  [ main:1033 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:54:48  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:54:49  [ main:1007 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:56:25  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:56:26  [ main:952 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:56:30  [ main:4406 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06553087568321898
+random  :0.017618327712524712
+all_precise:0.01884038955542778
+rate:3.7194719471947195
+2017-03-25 21:56:31  [ main:5749 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0310210489591813
+random  :0.01770554715664612
+all_precise:0.01884038955542778
+rate:1.7520525451559934
+2017-03-25 21:57:40  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:57:41  [ main:954 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:57:45  [ main:4428 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06460053494592395
+random  :0.019769740667519478
+all_precise:0.01884038955542778
+rate:3.26764705882353
+2017-03-25 21:57:46  [ main:5738 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03075939062681707
+random  :0.019915106407721827
+all_precise:0.01884038955542778
+rate:1.5445255474452555
+2017-03-25 21:57:51  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:57:52  [ main:966 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:57:56  [ main:4355 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06524014420281428
+random  :0.019071985114548204
+all_precise:0.01884038955542778
+rate:3.420731707317073
+2017-03-25 21:57:57  [ main:5823 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03134085358762647
+random  :0.01785091289684847
+all_precise:0.01884038955542778
+rate:1.7557003257328991
+2017-03-25 21:58:00  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:58:01  [ main:960 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:58:05  [ main:4381 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0652110710547738
+random  :0.018810326782183976
+all_precise:0.01884038955542778
+rate:3.4667697063369394
+2017-03-25 21:58:06  [ main:5647 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029683684149319687
+random  :0.018577741597860218
+all_precise:0.01884038955542778
+rate:1.5978090766823159
+2017-03-25 21:58:11  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:58:12  [ main:977 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:58:15  [ main:4442 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06715897197348529
+random  :0.018287010117455517
+all_precise:0.01884038955542778
+rate:3.6724960254372023
+2017-03-25 21:58:17  [ main:5756 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031922316548435865
+random  :0.01933364344691243
+all_precise:0.01884038955542778
+rate:1.651127819548872
+2017-03-25 21:58:21  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:58:22  [ main:949 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:58:25  [ main:4399 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06468775439004536
+random  :0.018228863821374577
+all_precise:0.01884038955542778
+rate:3.548644338118023
+2017-03-25 21:58:27  [ main:5718 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03151529247586929
+random  :0.01956622863123619
+all_precise:0.01884038955542778
+rate:1.610698365527489
+2017-03-25 21:58:30  [ main:1 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:58:31  [ main:969 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:58:35  [ main:4487 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06433887661355972
+random  :0.018723107338062567
+all_precise:0.01884038955542778
+rate:3.436335403726708
+2017-03-25 21:58:36  [ main:5811 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030730317478776602
+random  :0.01802535178509129
+all_precise:0.01884038955542778
+rate:1.7048387096774194
+2017-03-25 21:59:14  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:59:15  [ main:989 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:59:19  [ main:4587 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06436794976160018
+random  :0.01939178974299337
+all_precise:0.01884038955542778
+rate:3.416487200130968
+2017-03-25 21:59:20  [ main:5865 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03139899988370741
+random  :0.018664961041981627
+all_precise:0.01884038955542778
+rate:1.6665791220151065
+2017-03-25 21:59:28  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:59:29  [ main:979 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:59:33  [ main:4421 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0651238516106524
+random  :0.01947900918711478
+all_precise:0.01884038955542778
+rate:3.456608549364665
+2017-03-25 21:59:34  [ main:5737 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031864170252354926
+random  :0.018490522153738805
+all_precise:0.01884038955542778
+rate:1.6912691830819968
+2017-03-25 21:59:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:59:40  [ main:984 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:59:44  [ main:4429 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06582160716362367
+random  :0.01808349808117223
+all_precise:0.01884038955542778
+rate:3.4936436409650007
+2017-03-25 21:59:45  [ main:5734 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030294220258169555
+random  :0.018490522153738805
+all_precise:0.01884038955542778
+rate:1.6079402269812415
+2017-03-25 21:59:50  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 21:59:51  [ main:1005 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 21:59:54  [ main:4429 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0657053145714618
+random  :0.017821839748808
+all_precise:0.01884038955542778
+rate:3.4874711256982778
+2017-03-25 21:59:56  [ main:5760 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03105012210722177
+random  :0.019159204558669613
+all_precise:0.01884038955542778
+rate:1.6480615762149384
+2017-03-25 22:01:14  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:01:15  [ main:960 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:01:18  [ main:4542 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06547272938713804
+random  :0.020118618444005115
+all_precise:0.01884038955542778
+rate:3.475126095164833
+2017-03-25 22:01:20  [ main:5872 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029829049889522036
+random  :0.0193627165949529
+all_precise:0.01884038955542778
+rate:1.583250165914351
+2017-03-25 22:01:25  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:01:26  [ main:998 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:01:29  [ main:4404 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06279799976741482
+random  :0.018984765670426795
+all_precise:0.01884038955542778
+rate:3.333158244030213
+2017-03-25 22:01:31  [ main:5671 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02924758692871264
+random  :0.018490522153738805
+all_precise:0.01884038955542778
+rate:1.552387589580738
+2017-03-25 22:01:35  [ main:1 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:01:35  [ main:968 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:01:39  [ main:4343 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06227468310268636
+random  :0.018403302709617396
+all_precise:0.01884038955542778
+rate:3.305381925329961
+2017-03-25 22:01:40  [ main:5657 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03113734155134318
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:1.6526909626649804
+2017-03-25 22:01:51  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:01:52  [ main:975 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:01:56  [ main:4434 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06401907198511454
+random  :0.018635887893941157
+all_precise:0.01884038955542778
+rate:3.3979696543308
+2017-03-25 22:01:57  [ main:5871 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029829049889522036
+random  :0.019886033259681357
+all_precise:0.01884038955542778
+rate:1.583250165914351
+2017-03-25 22:02:01  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:02:02  [ main:987 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:02:06  [ main:4408 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06625770438423073
+random  :0.017589254564484243
+all_precise:0.01884038955542778
+rate:3.5167905732152107
+2017-03-25 22:02:07  [ main:5723 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030701244330736132
+random  :0.018635887893941157
+all_precise:0.01884038955542778
+rate:1.6295440304147706
+2017-03-25 22:02:12  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:02:13  [ main:948 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:02:16  [ main:4408 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06428073031747877
+random  :0.018955692522386325
+all_precise:0.01884038955542778
+rate:3.4118578136809257
+2017-03-25 22:02:18  [ main:5732 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031486219327828815
+random  :0.017502035120362833
+all_precise:0.01884038955542778
+rate:1.6712085084651482
+2017-03-25 22:02:30  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:02:31  [ main:1012 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:02:34  [ main:4511 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06547272938713804
+random  :0.01773462030468659
+all_precise:0.01884038955542778
+rate:3.475126095164833
+2017-03-25 22:02:36  [ main:5828 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03084661007093848
+random  :0.017589254564484243
+all_precise:0.01884038955542778
+rate:1.6372596744981738
+2017-03-25 22:02:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:02:40  [ main:971 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:02:44  [ main:4411 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06337946272822421
+random  :0.019973252703802766
+all_precise:0.01884038955542778
+rate:3.3640208203638258
+2017-03-25 22:02:45  [ main:5747 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03093382951505989
+random  :0.020293057332247937
+all_precise:0.01884038955542778
+rate:1.6418890609482157
+2017-03-25 22:02:47  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:02:48  [ main:951 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:02:52  [ main:4354 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06439702290964065
+random  :0.018519595301779275
+all_precise:0.01884038955542778
+rate:3.4180303289476486
+2017-03-25 22:02:53  [ main:5674 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030352366554250495
+random  :0.01971159437143854
+all_precise:0.01884038955542778
+rate:1.6110264846146027
+2017-03-25 22:03:16  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:03:17  [ main:987 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:03:20  [ main:4410 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06343760902430515
+random  :0.018432375857657866
+all_precise:0.01884038955542778
+rate:3.367107077997187
+2017-03-25 22:03:22  [ main:5729 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03139899988370741
+random  :0.019101058262588674
+all_precise:0.01884038955542778
+rate:1.6665791220151065
+2017-03-25 22:03:25  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:03:26  [ main:970 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:03:30  [ main:4485 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06637399697639261
+random  :0.018403302709617396
+all_precise:0.01884038955542778
+rate:3.5229630884819336
+2017-03-25 22:03:31  [ main:5783 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029974415629724388
+random  :0.01971159437143854
+all_precise:0.01884038955542778
+rate:1.5909658099977544
+2017-03-25 22:03:34  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:03:35  [ main:964 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:03:39  [ main:4507 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06555994883125944
+random  :0.017472961972322364
+all_precise:0.01884038955542778
+rate:3.4797554816148746
+2017-03-25 22:03:40  [ main:5802 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030294220258169555
+random  :0.018752180486103037
+all_precise:0.01884038955542778
+rate:1.6079402269812415
+2017-03-25 22:03:43  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:03:44  [ main:969 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:03:47  [ main:4379 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06625770438423073
+random  :0.01971159437143854
+all_precise:0.01884038955542778
+rate:3.5167905732152107
+2017-03-25 22:03:49  [ main:5658 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030323293406210025
+random  :0.018606814745900688
+all_precise:0.01884038955542778
+rate:1.6094833557979222
+2017-03-25 22:04:03  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:04:04  [ main:968 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:04:07  [ main:4378 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.065036632166531
+random  :0.019071985114548204
+all_precise:0.01884038955542778
+rate:3.4519791629146233
+2017-03-25 22:04:08  [ main:5703 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03107919525526224
+random  :0.01933364344691243
+all_precise:0.01884038955542778
+rate:1.6496047050316192
+2017-03-25 22:04:12  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:04:13  [ main:954 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:04:16  [ main:4457 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06282707291545528
+random  :0.018781253634143506
+all_precise:0.01884038955542778
+rate:3.334701372846893
+2017-03-25 22:04:18  [ main:5759 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029596464705198278
+random  :0.018664961041981627
+all_precise:0.01884038955542778
+rate:1.5709051353809058
+2017-03-25 22:04:20  [ main:1 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:04:21  [ main:951 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:04:25  [ main:4457 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06494941272240959
+random  :0.019159204558669613
+all_precise:0.01884038955542778
+rate:3.4473497764645815
+2017-03-25 22:04:26  [ main:5770 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031806023956273986
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:1.6881829254486356
+2017-03-25 22:04:42  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:04:43  [ main:983 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:04:46  [ main:4519 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06189673217816025
+random  :0.020089545295964645
+all_precise:0.01884038955542778
+rate:3.2853212507131127
+2017-03-25 22:04:47  [ main:5826 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031806023956273986
+random  :0.018926619374345855
+all_precise:0.01884038955542778
+rate:1.6881829254486356
+2017-03-25 22:04:52  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:04:53  [ main:963 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:04:56  [ main:4468 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06288521921153623
+random  :0.01793813234096988
+all_precise:0.01884038955542778
+rate:3.3377876304802547
+2017-03-25 22:04:58  [ main:5816 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03212582858471915
+random  :0.019071985114548204
+all_precise:0.01884038955542778
+rate:1.7051573424321225
+2017-03-25 22:05:08  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:05:09  [ main:1039 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:05:12  [ main:4435 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06564716827538086
+random  :0.018606814745900688
+all_precise:0.01884038955542778
+rate:3.484384868064917
+2017-03-25 22:05:13  [ main:5743 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03110826840330271
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:1.6511478338482997
+2017-03-25 22:06:55  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:06:56  [ main:968 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:07:00  [ main:4422 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06430980346551925
+random  :0.018781253634143506
+all_precise:0.01884038955542778
+rate:3.413400942497607
+2017-03-25 22:07:01  [ main:5731 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030032561925805328
+random  :0.01953715548319572
+all_precise:0.01884038955542778
+rate:1.5940520676311156
+2017-03-25 22:07:06  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:07:07  [ main:962 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:07:10  [ main:4435 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06500755901849052
+random  :0.018170717525293638
+all_precise:0.01884038955542778
+rate:3.4504360340979425
+2017-03-25 22:07:12  [ main:5725 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030352366554250495
+random  :0.01805442493313176
+all_precise:0.01884038955542778
+rate:1.6110264846146027
+2017-03-25 22:07:19  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:07:20  [ main:1007 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:07:24  [ main:4408 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06448424235376206
+random  :0.01953715548319572
+all_precise:0.01884038955542778
+rate:3.4226597153976903
+2017-03-25 22:07:25  [ main:5763 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029625537853238747
+random  :0.018345156413536456
+all_precise:0.01884038955542778
+rate:1.5724482641975863
+2017-03-25 22:08:27  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:08:28  [ main:1027 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:08:31  [ main:4613 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06224560995464589
+random  :0.018723107338062567
+all_precise:0.01884038955542778
+rate:3.3038387965132805
+2017-03-25 22:08:33  [ main:6073 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03139899988370741
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:1.6665791220151065
+2017-03-25 22:08:38  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:08:39  [ main:978 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:08:42  [ main:4336 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06268170717525294
+random  :0.018694034190022097
+all_precise:0.01884038955542778
+rate:3.32698572876349
+2017-03-25 22:08:44  [ main:5673 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030352366554250495
+random  :0.020089545295964645
+all_precise:0.01884038955542778
+rate:1.6110264846146027
+2017-03-25 22:08:56  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:08:57  [ main:985 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:09:01  [ main:4596 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06590882660774508
+random  :0.017414815676241424
+all_precise:0.01884038955542778
+rate:3.4982730274150424
+2017-03-25 22:09:02  [ main:6016 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03195138969647633
+random  :0.018897546226305385
+all_precise:0.01884038955542778
+rate:1.6958985695320385
+2017-03-25 22:09:08  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:09:09  [ main:987 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:09:12  [ main:4460 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.064542388649843
+random  :0.018984765670426795
+all_precise:0.01884038955542778
+rate:3.4257459730310518
+2017-03-25 22:09:14  [ main:5743 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.029625537853238747
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:1.5724482641975863
+2017-03-25 22:09:17  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:09:18  [ main:962 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:09:21  [ main:4390 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06163507384579602
+random  :0.018868473078264916
+all_precise:0.01884038955542778
+rate:3.2714330913629865
+2017-03-25 22:09:22  [ main:5660 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.028753343412024655
+random  :0.018374229561576926
+all_precise:0.01884038955542778
+rate:1.526154399697167
+2017-03-25 22:17:19  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:17:20  [ main:999 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:17:24  [ main:4395 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06448424235376206
+random  :0.018316083265495987
+all_precise:0.01884038955542778
+rate:3.4226597153976903
+2017-03-25 22:17:25  [ main:5917 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03093382951505989
+random  :0.01802535178509129
+all_precise:0.01884038955542778
+rate:1.6418890609482157
+2017-03-25 22:17:30  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:17:31  [ main:994 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:17:34  [ main:4385 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06547272938713804
+random  :0.018723107338062567
+all_precise:0.01884038955542778
+rate:3.475126095164833
+2017-03-25 22:17:36  [ main:5914 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03145714617978835
+random  :0.020118618444005115
+all_precise:0.01884038955542778
+rate:1.6696653796484677
+2017-03-25 22:17:45  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:17:46  [ main:992 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:17:49  [ main:4422 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06186765903011978
+random  :0.018664961041981627
+all_precise:0.01884038955542778
+rate:3.2837781218964315
+2017-03-25 22:17:51  [ main:5937 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030468659146412374
+random  :0.018606814745900688
+all_precise:0.01884038955542778
+rate:1.6171989998813254
+2017-03-25 22:18:07  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:18:08  [ main:980 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:18:12  [ main:4613 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06683916734504013
+random  :0.01962437492731713
+all_precise:0.01884038955542778
+rate:3.547653149548824
+2017-03-25 22:18:14  [ main:6282 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030643098034655192
+random  :0.018287010117455517
+all_precise:0.01884038955542778
+rate:1.6264577727814093
+2017-03-25 22:18:19  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:18:20  [ main:964 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:18:23  [ main:4429 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06614141179206885
+random  :0.018228863821374577
+all_precise:0.01884038955542778
+rate:3.5106180579484882
+2017-03-25 22:18:25  [ main:5746 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02921851378067217
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:1.5508444607640572
+2017-03-25 22:18:27  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:18:28  [ main:991 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:18:32  [ main:4428 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06489126642632864
+random  :0.01956622863123619
+all_precise:0.01884038955542778
+rate:3.4442635188312196
+2017-03-25 22:18:33  [ main:5712 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030381439702290965
+random  :0.019304570298871962
+all_precise:0.01884038955542778
+rate:1.6125696134312835
+2017-03-25 22:18:40  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:18:41  [ main:977 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:18:44  [ main:4463 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06663565530875683
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:3.536851247832059
+2017-03-25 22:18:46  [ main:5754 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030090708221886267
+random  :0.019130131410629143
+all_precise:0.01884038955542778
+rate:1.597138325264477
+2017-03-25 22:19:03  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:19:04  [ main:1034 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:19:08  [ main:4504 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0666647284567973
+random  :0.018955692522386325
+all_precise:0.01884038955542778
+rate:3.5383943766487396
+2017-03-25 22:19:09  [ main:5825 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0310210489591813
+random  :0.018577741597860218
+all_precise:0.01884038955542778
+rate:1.6465184473982577
+2017-03-25 22:19:13  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:19:14  [ main:985 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:19:18  [ main:4470 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06817653215490173
+random  :0.01805442493313176
+all_precise:0.01884038955542778
+rate:3.6186370751161334
+2017-03-25 22:19:19  [ main:5763 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.031166414699383648
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:1.6542340914816611
+2017-03-25 22:19:24  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:19:25  [ main:996 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:19:28  [ main:4464 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06596697290382603
+random  :0.019798813815559948
+all_precise:0.01884038955542778
+rate:3.501359285048404
+2017-03-25 22:19:30  [ main:5907 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03087568321897895
+random  :0.020438423072450286
+all_precise:0.01884038955542778
+rate:1.6388028033148545
+2017-03-25 22:19:33  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:19:34  [ main:1016 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:19:38  [ main:4751 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06471682753808583
+random  :0.0193627165949529
+all_precise:0.01884038955542778
+rate:3.435004745931136
+2017-03-25 22:19:39  [ main:6025 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030265147110129086
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:1.6063970981645608
+2017-03-25 22:19:42  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:19:43  [ main:980 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:19:46  [ main:4392 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06224560995464589
+random  :0.01962437492731713
+all_precise:0.01884038955542778
+rate:3.3038387965132805
+2017-03-25 22:19:47  [ main:5673 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02950924526107687
+random  :0.018170717525293638
+all_precise:0.01884038955542778
+rate:1.5662757489308639
+2017-03-25 22:19:54  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:19:55  [ main:966 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:19:58  [ main:4480 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06683916734504013
+random  :0.019042911966507734
+all_precise:0.01884038955542778
+rate:3.547653149548824
+2017-03-25 22:20:00  [ main:5926 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030265147110129086
+random  :0.018752180486103037
+all_precise:0.01884038955542778
+rate:1.6063970981645608
+2017-03-25 22:47:20  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:47:21  [ main:1001 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:48:27  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:48:28  [ main:1003 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:48:56  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:48:57  [ main:1009 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 22:51:10  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 22:51:11  [ main:1011 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:01:05  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:01:51  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:02:26  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:04:23  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:05:11  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:05:12  [ main:1137 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:05:17  [ main:5887 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.06273985347133387
+random  :0.018606814745900688
+all_precise:0.01884038955542778
+rate:3.330071986396851
+2017-03-25 23:05:18  [ main:7253 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.02825909989533667
+random  :0.0181125712292127
+all_precise:0.01884038955542778
+rate:1.499921209813596
+2017-03-25 23:05:42  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:05:43  [ main:987 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:05:47  [ main:4517 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.050034887777648564
+random  :0.020031398999883706
+all_precise:0.01884038955542778
+rate:2.6557246935074055
+2017-03-25 23:05:48  [ main:5785 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03200953599255727
+random  :0.018897546226305385
+all_precise:0.01884038955542778
+rate:1.6989848271654
+2017-03-25 23:05:55  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:05:56  [ main:957 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:06:00  [ main:4506 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.051343179439469706
+random  :0.018490522153738805
+all_precise:0.01884038955542778
+rate:2.725165490258035
+2017-03-25 23:06:01  [ main:5813 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030236073962088616
+random  :0.019944179555762297
+all_precise:0.01884038955542778
+rate:1.6048539693478803
+2017-03-25 23:07:39  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:07:40  [ main:982 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:07:44  [ main:4530 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.04736015815792534
+random  :0.018839399930224446
+all_precise:0.01884038955542778
+rate:2.513756842372785
+2017-03-25 23:07:45  [ main:5875 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.0294801721130364
+random  :0.018606814745900688
+all_precise:0.01884038955542778
+rate:1.5647326201141831
+2017-03-25 23:08:35  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:08:46  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:08:47  [ main:988 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:08:50  [ main:4470 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.052622397953250376
+random  :0.018461449005698335
+all_precise:0.01884038955542778
+rate:2.7930631581919836
+2017-03-25 23:08:51  [ main:5749 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03183509710431445
+random  :0.019101058262588674
+all_precise:0.01884038955542778
+rate:1.689726054265316
+2017-03-25 23:09:01  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:09:02  [ main:1019 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:09:06  [ main:4521 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05154669147575299
+random  :0.019130131410629143
+all_precise:0.01884038955542778
+rate:2.7359673919747993
+2017-03-25 23:09:07  [ main:5870 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.03078846377485754
+random  :0.018548668449819748
+all_precise:0.01884038955542778
+rate:1.6341734168648125
+2017-03-25 23:10:07  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:10:08  [ main:1019 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:18:52  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-25 23:18:53  [ main:1020 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有7315条
+2017-03-25 23:18:57  [ main:4638 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.05241888591696709
+random  :0.01971159437143854
+all_precise:0.01884038955542778
+rate:2.7822612564752194
+2017-03-25 23:18:58  [ main:6052 ] - [ DEBUG ]  TOP_N: 3, MIN_WATCH_CNT: 15
+user_cnt:8599
+precise :0.030497732294452844
+random  :0.019042911966507734
+all_precise:0.01884038955542778
+rate:1.6187421286980062

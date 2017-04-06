@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/chenhuan001/Documents/workspace/TvUserProfileWithSinaData/lib/weka.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/chenhuan001/Documents/workspace/TvUserProfileWithSinaData/lib/weka.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/chenhuan001/Documents/workspace/TvUserProfileWithSinaData/lib/mongo-java-driver-3.4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chenhuan001/Documents/workspace/TvUserProfileWithSinaData/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/chenhuan001/Documents/workspace/TvUserProfileWithSinaData/lib/libsvm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

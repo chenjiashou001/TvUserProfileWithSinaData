@@ -1,0 +1,222 @@
+[ERROR] 2017-03-14 15:00:48,716 method:tvprograms.ProgramsUtil.main(ProgramsUtil.java:92)
+tvprograms.Program@1bba105
+[ERROR] 2017-03-14 20:04:02,317 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:05:41,411 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:07:23,950 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:10:17,464 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:11:15,674 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:14:01,264 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:14:50,883 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:20:23,610 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:22:09,044 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:23:18,387 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:23:48,903 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:28:32,992 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:28:45,997 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:30:18,587 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:31:18,035 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:33:00,057 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:33:15,294 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:36:37,189 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:37:25,102 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:43:44,011 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:44:55,628 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:45:18,930 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:46:41,180 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:47:55,124 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 20:48:22,665 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 21:28:08,621 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 21:28:51,218 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 21:33:05,552 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 21:33:45,726 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 21:35:01,994 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:23:59,243 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:26:44,062 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:29:00,392 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:45:19,593 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:48:11,682 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:55:20,762 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:56:42,970 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:57:33,016 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:57:51,169 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 22:58:28,743 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 23:00:34,495 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 23:02:45,432 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 23:13:54,013 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+[ERROR] 2017-03-14 23:16:23,019 method:tools.FileUtil.readDocsFromFile(FileUtil.java:110)
+
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 

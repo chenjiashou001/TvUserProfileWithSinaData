@@ -1,0 +1,6056 @@
+2017-03-14 14:57:24  [ main:1 ] - [ INFO ]  Program_info load 完成
+2017-03-14 14:57:24  [ main:2 ] - [ DEBUG ]  中国之星
+2017-03-14 14:59:26  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-14 14:59:26  [ main:1 ] - [ DEBUG ]  中国之星
+2017-03-14 15:00:48  [ main:0 ] - [ INFO ]  Program_info load 完成
+2017-03-14 15:00:48  [ main:1 ] - [ DEBUG ]  中国之星
+2017-03-14 15:00:48  [ main:1 ] - [ ERROR ]  tvprograms.Program@1bba105
+2017-03-14 20:04:02  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:04:02  [ main:305 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:04:02  [ main:306 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:04:02  [ main:307 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:04:02  [ main:308 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:04:02  [ main:317 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:04:02  [ main:317 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:04:02  [ main:318 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:05:41  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:07:23  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:07:24  [ main:309 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:07:24  [ main:310 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:07:24  [ main:311 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:07:24  [ main:312 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:07:24  [ main:316 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:07:24  [ main:317 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:07:24  [ main:318 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG :  can't find 'getSPLITFLAG' method
+user_name :  can't find 'getUser_name' method
+user_summary :  can't find 'getUser_summary' method
+residence :  can't find 'getResidence' method
+birthday :  can't find 'getBirthday' method
+register_time :  can't find 'getRegister_time' method
+education_info :  can't find 'getEducation_info' method
+tags :  can't find 'getTags' method
+useful_tags :  can't find 'getUseful_tags' method
+level :  can't find 'getLevel' method
+sex :  can't find 'getSex' method
+fans_num :  can't find 'getFans_num' method
+weibo_num :  can't find 'getWeibo_num' method
+attention_num :  can't find 'getAttention_num' method
+is_master :  can't find 'getIs_master' method
+master_tags :  can't find 'getMaster_tags' method
+------  end ------
+
+2017-03-14 20:10:17  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:10:17  [ main:263 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : []
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:10:17  [ main:263 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Bling-Bling韩同学
+user_summary : Hi,菇凉🙋🏻
+residence : 
+山东 威海
+birthday : 
+1996年1月25日
+register_time : null
+education_info : null
+tags : [酒窝控, 神经质, 学生, 狗狗, 水瓶]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 149
+weibo_num : 1018
+attention_num : 202
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:10:17  [ main:264 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小丁香医生
+user_summary : 心若向阳，无谓悲伤。
+residence : 
+湖南 长沙
+birthday : 
+1962年12月13日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 2808
+weibo_num : 1822
+attention_num : 1972
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:10:17  [ main:265 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小丁香医生
+user_summary : 心若向阳，无谓悲伤。
+residence : 
+湖南 长沙
+birthday : 
+1962年12月13日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 2808
+weibo_num : 1822
+attention_num : 1972
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:10:17  [ main:267 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 向成Cheng
+user_summary : 某人如你
+residence : 
+湖北 恩施土家族苗族自治州
+birthday : 
+1995年11月17日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.8
+
+sex : 1
+fans_num : 66
+weibo_num : 44
+attention_num : 620
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:10:17  [ main:268 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 东山日照花东开
+user_summary : 老牛自知夕阳短，不用扬鞭自奋蹄。
+residence : 
+山东 东营
+birthday : 
+1947年2月7日
+register_time : null
+education_info : null
+tags : [其他生活, IT科技, 新闻热点, 军事天地, 美图摄影]
+useful_tags : []
+level : Lv.23
+sex : 1
+fans_num : 2656
+weibo_num : 23496
+attention_num : 1865
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:10:17  [ main:268 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:11:15  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:11:15  [ main:301 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : []
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:11:15  [ main:302 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Bling-Bling韩同学
+user_summary : Hi,菇凉🙋🏻
+residence : 
+山东 威海
+birthday : 
+1996年1月25日
+register_time : null
+education_info : null
+tags : [酒窝控, 神经质, 学生, 狗狗, 水瓶]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 149
+weibo_num : 1018
+attention_num : 202
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:11:15  [ main:303 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小丁香医生
+user_summary : 心若向阳，无谓悲伤。
+residence : 
+湖南 长沙
+birthday : 
+1962年12月13日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 2808
+weibo_num : 1822
+attention_num : 1972
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:11:15  [ main:304 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小丁香医生
+user_summary : 心若向阳，无谓悲伤。
+residence : 
+湖南 长沙
+birthday : 
+1962年12月13日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 2808
+weibo_num : 1822
+attention_num : 1972
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:11:15  [ main:307 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 向成Cheng
+user_summary : 某人如你
+residence : 
+湖北 恩施土家族苗族自治州
+birthday : 
+1995年11月17日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.8
+
+sex : 1
+fans_num : 66
+weibo_num : 44
+attention_num : 620
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:11:15  [ main:307 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 东山日照花东开
+user_summary : 老牛自知夕阳短，不用扬鞭自奋蹄。
+residence : 
+山东 东营
+birthday : 
+1947年2月7日
+register_time : null
+education_info : null
+tags : [其他生活, IT科技, 新闻热点, 军事天地, 美图摄影]
+useful_tags : []
+level : Lv.23
+sex : 1
+fans_num : 2656
+weibo_num : 23496
+attention_num : 1865
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:11:15  [ main:308 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:01  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:14:01  [ main:333 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:01  [ main:334 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Bling-Bling韩同学
+user_summary : Hi,菇凉🙋🏻
+residence : 
+山东 威海
+birthday : 
+1996年1月25日
+register_time : null
+education_info : null
+tags : [酒窝控, 神经质, 学生, 狗狗, 水瓶]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 149
+weibo_num : 1018
+attention_num : 202
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:01  [ main:335 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小丁香医生
+user_summary : 心若向阳，无谓悲伤。
+residence : 
+湖南 长沙
+birthday : 
+1962年12月13日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 2808
+weibo_num : 1822
+attention_num : 1972
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:01  [ main:335 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小丁香医生
+user_summary : 心若向阳，无谓悲伤。
+residence : 
+湖南 长沙
+birthday : 
+1962年12月13日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 2808
+weibo_num : 1822
+attention_num : 1972
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:01  [ main:337 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 向成Cheng
+user_summary : 某人如你
+residence : 
+湖北 恩施土家族苗族自治州
+birthday : 
+1995年11月17日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.8
+
+sex : 1
+fans_num : 66
+weibo_num : 44
+attention_num : 620
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:01  [ main:338 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 东山日照花东开
+user_summary : 老牛自知夕阳短，不用扬鞭自奋蹄。
+residence : 
+山东 东营
+birthday : 
+1947年2月7日
+register_time : null
+education_info : null
+tags : [其他生活, IT科技, 新闻热点, 军事天地, 美图摄影]
+useful_tags : [军事]
+level : Lv.23
+sex : 1
+fans_num : 2656
+weibo_num : 23496
+attention_num : 1865
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:01  [ main:338 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:50  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:14:51  [ main:339 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:339 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Bling-Bling韩同学
+user_summary : Hi,菇凉🙋🏻
+residence : 
+山东 威海
+birthday : 
+1996年1月25日
+register_time : null
+education_info : null
+tags : [酒窝控, 神经质, 学生, 狗狗, 水瓶]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 149
+weibo_num : 1018
+attention_num : 202
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:340 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小丁香医生
+user_summary : 心若向阳，无谓悲伤。
+residence : 
+湖南 长沙
+birthday : 
+1962年12月13日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 2808
+weibo_num : 1822
+attention_num : 1972
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:341 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小丁香医生
+user_summary : 心若向阳，无谓悲伤。
+residence : 
+湖南 长沙
+birthday : 
+1962年12月13日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 2808
+weibo_num : 1822
+attention_num : 1972
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:345 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 向成Cheng
+user_summary : 某人如你
+residence : 
+湖北 恩施土家族苗族自治州
+birthday : 
+1995年11月17日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.8
+
+sex : 1
+fans_num : 66
+weibo_num : 44
+attention_num : 620
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:347 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 东山日照花东开
+user_summary : 老牛自知夕阳短，不用扬鞭自奋蹄。
+residence : 
+山东 东营
+birthday : 
+1947年2月7日
+register_time : null
+education_info : null
+tags : [其他生活, IT科技, 新闻热点, 军事天地, 美图摄影]
+useful_tags : [军事]
+level : Lv.23
+sex : 1
+fans_num : 2656
+weibo_num : 23496
+attention_num : 1865
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:348 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:348 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 王斯娉
+user_summary : 自留地
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:349 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : _几月
+user_summary : 有趣又温柔
+residence : 
+上海
+birthday : 
+1997年10月6日
+register_time : null
+education_info : null
+tags : [美食, 旅游, 娱乐, 文艺]
+useful_tags : [美食, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 197
+weibo_num : 18
+attention_num : 182
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:350 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 杨川
+user_summary : 新浪微博 杨川
+residence : 
+北京 海淀区
+birthday : null
+register_time : null
+education_info : null
+tags : [手机游戏, 手机视频, 无线音乐, 手机阅读]
+useful_tags : []
+level : Lv.44
+sex : 1
+fans_num : 30405
+weibo_num : 12100
+attention_num : 1240
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:351 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小婧Mia
+user_summary : Live Alive - Love n Peace
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [小鱼女, 边看边拍]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 726
+weibo_num : 445
+attention_num : 197
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:14:51  [ main:355 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Vetrax嚣张卫视
+user_summary : 电视媒体人，3C数码广播节目评论嘉宾 微博签约自媒体
+residence : 
+北京 朝阳区
+birthday : 
+1984年8月21日
+register_time : null
+education_info : null
+tags : [数码广播评论员, 北京体育广播, 3C数码节目, 广播, 电视包装, 电视, 媒体]
+useful_tags : []
+level : Lv.45
+sex : 1
+fans_num : 98946
+weibo_num : 71803
+attention_num : 2482
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:20:23  [ main:304 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:305 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 东山日照花东开
+user_summary : 老牛自知夕阳短，不用扬鞭自奋蹄。
+residence : 
+山东 东营
+birthday : 
+1947年2月7日
+register_time : null
+education_info : null
+tags : [其他生活, IT科技, 新闻热点, 军事天地, 美图摄影]
+useful_tags : [军事]
+level : Lv.23
+sex : 1
+fans_num : 2656
+weibo_num : 23496
+attention_num : 1865
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:306 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:307 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : _几月
+user_summary : 有趣又温柔
+residence : 
+上海
+birthday : 
+1997年10月6日
+register_time : null
+education_info : null
+tags : [美食, 旅游, 娱乐, 文艺]
+useful_tags : [美食, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 197
+weibo_num : 18
+attention_num : 182
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:311 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Takeshi-Arale
+user_summary : 几步之遥 一生距离
+residence : 
+湖南
+birthday : 
+1994年1月14日
+register_time : null
+education_info : null
+tags : [新闻趣事, 旅游, 穿衣美容, 英语, 财经, 90后, 经济, 社会, 政治]
+useful_tags : [财经, 财经]
+level : Lv.14
+sex : 0
+fans_num : 464
+weibo_num : 2478
+attention_num : 416
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:312 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 雪啸霜寒
+user_summary : 般若清幽，屏山半掩
+residence : 
+海外 其他
+birthday : 
+2005年6月25日
+register_time : null
+education_info : null
+tags : [腹黑, 茶, 吃货, 美剧控, 财经, 胡思乱想, 完美主义, 涂鸦]
+useful_tags : [美食, 财经]
+level : Lv.39
+sex : 0
+fans_num : 3916
+weibo_num : 11177
+attention_num : 543
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:312 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你头像屌
+user_summary : Just for my love 曾用名：宝小--坏坏
+residence : 
+河南 开封
+birthday : 
+天蝎座
+register_time : null
+education_info : null
+tags : [天蝎座, pokemon, 谢娜, 张杰, 孙燕姿, 懒人兼傻蛋一枚, hebe田馥甄, 爱情公寓, 95后]
+useful_tags : [明星]
+level : Lv.32
+sex : 1
+fans_num : 1085
+weibo_num : 8623
+attention_num : 1603
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:313 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Miranda_要健身要早睡
+user_summary : 胖成一坨的小白
+residence : 
+辽宁 沈阳
+birthday : 
+12月20日
+register_time : null
+education_info : null
+tags : [教育就业, 军事, IT数码, 文艺, 娱乐]
+useful_tags : [军事, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 240
+weibo_num : 2141
+attention_num : 334
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:314 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 雾雨成殇
+user_summary : 愿得一人心，白首不分离。
+residence : 
+广西 玉林
+birthday : 
+1994年2月17日
+register_time : null
+education_info : null
+tags : [月光族, 外貌协会, 宅男, 听歌, 90后, 大爱黄英]
+useful_tags : [音乐]
+level : Lv.22
+sex : 1
+fans_num : 258
+weibo_num : 2617
+attention_num : 263
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:315 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : fjfan
+user_summary : 天之道，损有余而补不足。是故虚胜实，不足胜有余。
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [彩妆, 护肤, Leslie, 处女座, 动漫, hunter, OP, 老福, 卡殿, ZS]
+useful_tags : [动漫]
+level : Lv.38
+sex : 1
+fans_num : 1147
+weibo_num : 28231
+attention_num : 193
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:315 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你放屁丨
+user_summary : 
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [临汾生活, 校园生活, 视频音乐, 重口味, 搞笑幽默]
+useful_tags : [音乐, 搞笑幽默]
+level : Lv.14
+sex : 1
+fans_num : 93
+weibo_num : 3337
+attention_num : 577
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:20:23  [ main:316 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 墨嵐
+user_summary : 重則輕  輕則重  是厚重的土  也是輕柔的風
+residence : 
+新疆 巴音郭楞
+birthday : 
+1989年12月23日
+register_time : null
+education_info : null
+tags : [视频音乐, 八卦杂谈, 旅游]
+useful_tags : [音乐, 明星]
+level : Lv.22
+sex : 1
+fans_num : 88
+weibo_num : 1347
+attention_num : 249
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:22:09  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:22:09  [ main:281 ] - [ DEBUG ]  3472
+2017-03-14 20:23:18  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:23:18  [ main:294 ] - [ DEBUG ]  3472
+2017-03-14 20:23:48  [ main:1 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:23:49  [ main:307 ] - [ DEBUG ]  3472
+2017-03-14 20:28:32  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:28:33  [ main:319 ] - [ DEBUG ]  0
+2017-03-14 20:28:45  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:28:46  [ main:315 ] - [ DEBUG ]  3433
+2017-03-14 20:30:18  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:30:18  [ main:318 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3433条
+2017-03-14 20:31:18  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:31:18  [ main:306 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3536条
+2017-03-14 20:33:00  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:33:00  [ main:317 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3028条
+2017-03-14 20:33:15  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:33:15  [ main:293 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 20:36:37  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:36:37  [ main:311 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有13217条
+2017-03-14 20:37:25  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:37:25  [ main:311 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有13217条
+2017-03-14 20:37:25  [ main:313 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:314 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Bling-Bling韩同学
+user_summary : Hi,菇凉🙋🏻
+residence : 
+山东 威海
+birthday : 
+1996年1月25日
+register_time : null
+education_info : null
+tags : [酒窝控, 神经质, 学生, 狗狗, 水瓶]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 149
+weibo_num : 1018
+attention_num : 202
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:315 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 向成Cheng
+user_summary : 某人如你
+residence : 
+湖北 恩施土家族苗族自治州
+birthday : 
+1995年11月17日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.8
+
+sex : 1
+fans_num : 66
+weibo_num : 44
+attention_num : 620
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:318 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:319 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 王斯娉
+user_summary : 自留地
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:319 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : _几月
+user_summary : 有趣又温柔
+residence : 
+上海
+birthday : 
+1997年10月6日
+register_time : null
+education_info : null
+tags : [美食, 旅游, 娱乐, 文艺]
+useful_tags : [美食, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 197
+weibo_num : 18
+attention_num : 182
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:320 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小婧Mia
+user_summary : Live Alive - Love n Peace
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [小鱼女, 边看边拍]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 726
+weibo_num : 445
+attention_num : 197
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:321 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Korrine77
+user_summary : 富士山下🌸
+residence : 
+其他
+birthday : 
+1992年7月2日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.9
+
+sex : 0
+fans_num : 20
+weibo_num : 1027
+attention_num : 116
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:321 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 我是韋疯子
+user_summary : 🌵念旧爱的花心大双鱼
+residence : 
+广西 南宁
+birthday : 
+1995年3月7日
+register_time : null
+education_info : null
+tags : [星座命理]
+useful_tags : []
+level : Lv.35
+sex : 0
+fans_num : 778
+weibo_num : 8044
+attention_num : 363
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:322 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 耳帝
+user_summary : 微博知名音乐博主
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:323 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Takeshi-Arale
+user_summary : 几步之遥 一生距离
+residence : 
+湖南
+birthday : 
+1994年1月14日
+register_time : null
+education_info : null
+tags : [新闻趣事, 旅游, 穿衣美容, 英语, 财经, 90后, 经济, 社会, 政治]
+useful_tags : [财经, 财经]
+level : Lv.14
+sex : 0
+fans_num : 464
+weibo_num : 2478
+attention_num : 416
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:325 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 大王大脸大猫大婶儿
+user_summary : 我们是少女！！！
+residence : 
+重庆 沙坪坝区
+birthday : 
+2月20日
+register_time : null
+education_info : null
+tags : [小小小小律师, 武林萌主, 包大人, 犯2的猫麻麻, 爱吃肉的死胖子, 从没睡醒过, 脸很大]
+useful_tags : []
+level : Lv.30
+sex : 0
+fans_num : 369
+weibo_num : 5622
+attention_num : 509
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:325 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : melodyamei
+user_summary : A silly girl
+residence : 
+其他
+birthday : 
+4月21日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 100
+weibo_num : 2235
+attention_num : 136
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:326 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : HowieTsui
+user_summary : 既艱且險
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [浙大玉泉之音, 睡不饱]
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 246
+weibo_num : 1606
+attention_num : 292
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:330 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Dinnnana
+user_summary : 
+residence : 
+陕西 西安
+birthday : 
+1994年2月16日
+register_time : null
+education_info : null
+tags : [新闻资讯, 娱乐, 星座命理, 美女, 时尚]
+useful_tags : []
+level : Lv.30
+sex : 0
+fans_num : 1789
+weibo_num : 16
+attention_num : 277
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:340 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你头像屌
+user_summary : Just for my love 曾用名：宝小--坏坏
+residence : 
+河南 开封
+birthday : 
+天蝎座
+register_time : null
+education_info : null
+tags : [天蝎座, pokemon, 谢娜, 张杰, 孙燕姿, 懒人兼傻蛋一枚, hebe田馥甄, 爱情公寓, 95后]
+useful_tags : [明星]
+level : Lv.32
+sex : 1
+fans_num : 1085
+weibo_num : 8623
+attention_num : 1603
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:341 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Miranda_要健身要早睡
+user_summary : 胖成一坨的小白
+residence : 
+辽宁 沈阳
+birthday : 
+12月20日
+register_time : null
+education_info : null
+tags : [教育就业, 军事, IT数码, 文艺, 娱乐]
+useful_tags : [军事, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 240
+weibo_num : 2141
+attention_num : 334
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:342 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : null
+user_summary : null
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:343 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 雾雨成殇
+user_summary : 愿得一人心，白首不分离。
+residence : 
+广西 玉林
+birthday : 
+1994年2月17日
+register_time : null
+education_info : null
+tags : [月光族, 外貌协会, 宅男, 听歌, 90后, 大爱黄英]
+useful_tags : [音乐]
+level : Lv.22
+sex : 1
+fans_num : 258
+weibo_num : 2617
+attention_num : 263
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:344 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 致_远r
+user_summary : 在这荒野无灯的世界里，我并不怕冷，却怕没有一盏唤我归去的灯！
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [旅游, 阳光, 魔羯座]
+useful_tags : []
+level : Lv.25
+sex : 1
+fans_num : 676
+weibo_num : 317
+attention_num : 307
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:344 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : halcyon_lucky_narration
+user_summary : 身体好胃口才会好
+residence : 
+广东 湛江
+birthday : null
+register_time : null
+education_info : null
+tags : [希望大家都能幸, 三观不合勿扰, 美食家进化中, 身高是硬伤, 剑三军爷, 大爱哥哥姐姐们, 半宅腐女]
+useful_tags : []
+level : Lv.14
+sex : 0
+fans_num : 194
+weibo_num : 7493
+attention_num : 303
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:37:25  [ main:345 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 阿茭茭茭茭茭茭____
+user_summary : 你别悄悄松开你的梦想 迟早有一天他会在你手里发光。
+residence : 
+河南 平顶山
+birthday : null
+register_time : null
+education_info : null
+tags : [美图摄影]
+useful_tags : []
+level : Lv.23
+sex : 0
+fans_num : 160
+weibo_num : 552
+attention_num : 253
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:43:44  [ main:329 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有9423条
+2017-03-14 20:43:44  [ main:332 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:333 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 向成Cheng
+user_summary : 某人如你
+residence : 
+湖北 恩施土家族苗族自治州
+birthday : 
+1995年11月17日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.8
+
+sex : 1
+fans_num : 66
+weibo_num : 44
+attention_num : 620
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:333 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 王斯娉
+user_summary : 自留地
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:336 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Korrine77
+user_summary : 富士山下🌸
+residence : 
+其他
+birthday : 
+1992年7月2日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.9
+
+sex : 0
+fans_num : 20
+weibo_num : 1027
+attention_num : 116
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:338 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 我是韋疯子
+user_summary : 🌵念旧爱的花心大双鱼
+residence : 
+广西 南宁
+birthday : 
+1995年3月7日
+register_time : null
+education_info : null
+tags : [星座命理]
+useful_tags : []
+level : Lv.35
+sex : 0
+fans_num : 778
+weibo_num : 8044
+attention_num : 363
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:339 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 耳帝
+user_summary : 微博知名音乐博主
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:339 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : melodyamei
+user_summary : A silly girl
+residence : 
+其他
+birthday : 
+4月21日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 100
+weibo_num : 2235
+attention_num : 136
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:340 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : null
+user_summary : null
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:340 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 阿茭茭茭茭茭茭____
+user_summary : 你别悄悄松开你的梦想 迟早有一天他会在你手里发光。
+residence : 
+河南 平顶山
+birthday : null
+register_time : null
+education_info : null
+tags : [美图摄影]
+useful_tags : []
+level : Lv.23
+sex : 0
+fans_num : 160
+weibo_num : 552
+attention_num : 253
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:341 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : null
+user_summary : null
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:341 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 田皓文
+user_summary : Wild Life
+residence : 
+辽宁 沈阳
+birthday : 
+1983年1月3日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.30
+sex : 1
+fans_num : 1203
+weibo_num : 3066
+attention_num : 248
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:342 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 冬儿-147
+user_summary : 关注、支持丁俊晖。关注斯诺克赛事、评论和档案数据统计。
+residence : 
+上海 宝山区
+birthday : null
+register_time : null
+education_info : null
+tags : [台球]
+useful_tags : []
+level : Lv.29
+sex : 1
+fans_num : 673
+weibo_num : 2250
+attention_num : 204
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:342 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 蓝莓猫爪爪
+user_summary : 职业歌曲创编，动画配乐，制谱。QQ1006371202。
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.27
+sex : -1
+fans_num : 349
+weibo_num : 479
+attention_num : 125
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:343 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 时间悄然无息流逝_902
+user_summary : 
+residence : 
+江西
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.4
+
+sex : 0
+fans_num : 7
+weibo_num : 3
+attention_num : 30
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:345 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 冷血动物kk
+user_summary : 好好学习天天向上
+residence : 
+海南 海口
+birthday : 
+1994年3月6日
+register_time : null
+education_info : null
+tags : [娱乐]
+useful_tags : []
+level : Lv.25
+sex : 1
+fans_num : 156
+weibo_num : 115
+attention_num : 222
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:354 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 李音蕾
+user_summary : 活在当下～及时行乐
+residence : 
+云南 昆明
+birthday : 
+1985年5月18日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.31
+sex : 0
+fans_num : 573
+weibo_num : 2001
+attention_num : 334
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:355 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 毕竟何三岁是白羊座Ya
+user_summary : 很快呀！还有49天！
+residence : 
+上海
+birthday : 
+1997年3月27日
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.9
+
+sex : 0
+fans_num : 31
+weibo_num : 10
+attention_num : 24
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:356 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : null
+user_summary : null
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:362 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 浪微闲
+user_summary : 
+residence : 
+上海
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.14
+sex : 1
+fans_num : 2
+weibo_num : 31
+attention_num : 108
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:363 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 中国银行
+user_summary : 中国银行官方微博
+residence : null
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : null
+sex : -1
+fans_num : 0
+weibo_num : 0
+attention_num : 0
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:363 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Ms_Xx小姐
+user_summary : 🤗🤗🤗爱胖球的苦逼媒体人
+residence : 
+上海 长宁区
+birthday : null
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.9
+
+sex : 0
+fans_num : 20
+weibo_num : 249
+attention_num : 97
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:43:44  [ main:364 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 撅了个腚飞了
+user_summary : 散
+residence : 
+海外 其他
+birthday : 
+处女座
+register_time : null
+education_info : null
+tags : []
+useful_tags : []
+level : Lv.28
+sex : 0
+fans_num : 105
+weibo_num : 4601
+attention_num : 115
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:44:55  [ main:307 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3814条
+2017-03-14 20:44:55  [ main:310 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Bling-Bling韩同学
+user_summary : Hi,菇凉🙋🏻
+residence : 
+山东 威海
+birthday : 
+1996年1月25日
+register_time : null
+education_info : null
+tags : [酒窝控, 神经质, 学生, 狗狗, 水瓶]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 149
+weibo_num : 1018
+attention_num : 202
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:312 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:313 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : _几月
+user_summary : 有趣又温柔
+residence : 
+上海
+birthday : 
+1997年10月6日
+register_time : null
+education_info : null
+tags : [美食, 旅游, 娱乐, 文艺]
+useful_tags : [美食, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 197
+weibo_num : 18
+attention_num : 182
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:317 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小婧Mia
+user_summary : Live Alive - Love n Peace
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [小鱼女, 边看边拍]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 726
+weibo_num : 445
+attention_num : 197
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:317 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Takeshi-Arale
+user_summary : 几步之遥 一生距离
+residence : 
+湖南
+birthday : 
+1994年1月14日
+register_time : null
+education_info : null
+tags : [新闻趣事, 旅游, 穿衣美容, 英语, 财经, 90后, 经济, 社会, 政治]
+useful_tags : [财经, 财经]
+level : Lv.14
+sex : 0
+fans_num : 464
+weibo_num : 2478
+attention_num : 416
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:318 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 大王大脸大猫大婶儿
+user_summary : 我们是少女！！！
+residence : 
+重庆 沙坪坝区
+birthday : 
+2月20日
+register_time : null
+education_info : null
+tags : [小小小小律师, 武林萌主, 包大人, 犯2的猫麻麻, 爱吃肉的死胖子, 从没睡醒过, 脸很大]
+useful_tags : []
+level : Lv.30
+sex : 0
+fans_num : 369
+weibo_num : 5622
+attention_num : 509
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:319 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : HowieTsui
+user_summary : 既艱且險
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [浙大玉泉之音, 睡不饱]
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 246
+weibo_num : 1606
+attention_num : 292
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:320 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Dinnnana
+user_summary : 
+residence : 
+陕西 西安
+birthday : 
+1994年2月16日
+register_time : null
+education_info : null
+tags : [新闻资讯, 娱乐, 星座命理, 美女, 时尚]
+useful_tags : []
+level : Lv.30
+sex : 0
+fans_num : 1789
+weibo_num : 16
+attention_num : 277
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:321 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你头像屌
+user_summary : Just for my love 曾用名：宝小--坏坏
+residence : 
+河南 开封
+birthday : 
+天蝎座
+register_time : null
+education_info : null
+tags : [天蝎座, pokemon, 谢娜, 张杰, 孙燕姿, 懒人兼傻蛋一枚, hebe田馥甄, 爱情公寓, 95后]
+useful_tags : [明星]
+level : Lv.32
+sex : 1
+fans_num : 1085
+weibo_num : 8623
+attention_num : 1603
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:321 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Miranda_要健身要早睡
+user_summary : 胖成一坨的小白
+residence : 
+辽宁 沈阳
+birthday : 
+12月20日
+register_time : null
+education_info : null
+tags : [教育就业, 军事, IT数码, 文艺, 娱乐]
+useful_tags : [军事, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 240
+weibo_num : 2141
+attention_num : 334
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:322 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 雾雨成殇
+user_summary : 愿得一人心，白首不分离。
+residence : 
+广西 玉林
+birthday : 
+1994年2月17日
+register_time : null
+education_info : null
+tags : [月光族, 外貌协会, 宅男, 听歌, 90后, 大爱黄英]
+useful_tags : [音乐]
+level : Lv.22
+sex : 1
+fans_num : 258
+weibo_num : 2617
+attention_num : 263
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:323 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 致_远r
+user_summary : 在这荒野无灯的世界里，我并不怕冷，却怕没有一盏唤我归去的灯！
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [旅游, 阳光, 魔羯座]
+useful_tags : []
+level : Lv.25
+sex : 1
+fans_num : 676
+weibo_num : 317
+attention_num : 307
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:324 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : halcyon_lucky_narration
+user_summary : 身体好胃口才会好
+residence : 
+广东 湛江
+birthday : null
+register_time : null
+education_info : null
+tags : [希望大家都能幸, 三观不合勿扰, 美食家进化中, 身高是硬伤, 剑三军爷, 大爱哥哥姐姐们, 半宅腐女]
+useful_tags : []
+level : Lv.14
+sex : 0
+fans_num : 194
+weibo_num : 7493
+attention_num : 303
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:325 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 沉沉沉沉沉沉沉啊沉
+user_summary : 又到了双马尾的季节ฅ(*°ω°*ฅ)*
+residence : 
+江西 吉安
+birthday : 
+1995年9月2日
+register_time : null
+education_info : null
+tags : [妮姬党, 心理学专业, 矢泽妮可, lovelive！, winky诗, 飞儿乐团, 洪榛浩, 王俊雄, 牡丹亭, 新世纪音乐]
+useful_tags : []
+level : Lv.29
+sex : 0
+fans_num : 254
+weibo_num : 2719
+attention_num : 265
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:328 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : fjfan
+user_summary : 天之道，损有余而补不足。是故虚胜实，不足胜有余。
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [彩妆, 护肤, Leslie, 处女座, 动漫, hunter, OP, 老福, 卡殿, ZS]
+useful_tags : [动漫]
+level : Lv.38
+sex : 1
+fans_num : 1147
+weibo_num : 28231
+attention_num : 193
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:341 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你放屁丨
+user_summary : 
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [临汾生活, 校园生活, 视频音乐, 重口味, 搞笑幽默]
+useful_tags : [音乐, 搞笑幽默]
+level : Lv.14
+sex : 1
+fans_num : 93
+weibo_num : 3337
+attention_num : 577
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:342 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 墨嵐
+user_summary : 重則輕  輕則重  是厚重的土  也是輕柔的風
+residence : 
+新疆 巴音郭楞
+birthday : 
+1989年12月23日
+register_time : null
+education_info : null
+tags : [视频音乐, 八卦杂谈, 旅游]
+useful_tags : [音乐, 明星]
+level : Lv.22
+sex : 1
+fans_num : 88
+weibo_num : 1347
+attention_num : 249
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:343 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Cha茶dei海
+user_summary : 自娱自乐的高地人
+residence : 
+海外 美国
+birthday : 
+1987年7月4日
+register_time : null
+education_info : null
+tags : [读书分享, 旅游, 美容服饰, 视频音乐, 美国生活]
+useful_tags : [文艺, 音乐]
+level : Lv.14
+sex : 0
+fans_num : 37
+weibo_num : 260
+attention_num : 90
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:343 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 花心龙虾片
+user_summary : 废话集合地。
+residence : 
+上海 长宁区
+birthday : 
+天蝎座
+register_time : null
+education_info : null
+tags : [王力宏, 美妆, 欧美Diva, 李治廷]
+useful_tags : []
+level : Lv.23
+sex : 0
+fans_num : 412
+weibo_num : 7975
+attention_num : 306
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:344 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 叫她麦子
+user_summary : 中国传媒大学13戏剧影视美术设计      行动缓慢的自由人
+residence : 
+江苏 苏州
+birthday : 
+8月20日
+register_time : null
+education_info : null
+tags : [视频音乐, 花样美男, 美容服饰, 美图摄影, 美食]
+useful_tags : [音乐, 美食]
+level : Lv.23
+sex : 0
+fans_num : 376
+weibo_num : 425
+attention_num : 755
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:345 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 胖凡是个奥迪特
+user_summary : 热爱音乐的前审计狗+怪咖一个~
+residence : 
+云南 保山
+birthday : 
+1990年10月27日
+register_time : null
+education_info : null
+tags : [审计, 财务, 金融, 音乐, 旅游, 美食, lancaster, 唱歌, UNNC, 生活]
+useful_tags : [财经, 音乐, 美食, 音乐]
+level : Lv.36
+sex : 1
+fans_num : 1805
+weibo_num : 9021
+attention_num : 592
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:44:55  [ main:345 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 系上你鞋带的我的手
+user_summary : 我喜欢这样跟着你，随便你带我到哪里。你的脸慢慢贴近，明天也慢慢地慢慢清晰。我喜欢你爱我的心，轻触我每根手指感应，我知道它在诉说着你承诺言语。
+residence : 
+海外
+birthday : 
+2015年8月21日
+register_time : null
+education_info : null
+tags : [新闻资讯, 旅游, 体育, 文艺, 健康, 美食, IT数码, 娱乐]
+useful_tags : [体育, 文艺, 美食]
+level : Lv.9
+
+sex : 1
+fans_num : 25
+weibo_num : 124
+attention_num : 35
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:45:18  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:46:41  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:46:41  [ main:338 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有2210条
+2017-03-14 20:46:41  [ main:341 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:342 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : _几月
+user_summary : 有趣又温柔
+residence : 
+上海
+birthday : 
+1997年10月6日
+register_time : null
+education_info : null
+tags : [美食, 旅游, 娱乐]
+useful_tags : [美食]
+level : Lv.25
+sex : 0
+fans_num : 197
+weibo_num : 18
+attention_num : 182
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:343 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Takeshi-Arale
+user_summary : 几步之遥 一生距离
+residence : 
+湖南
+birthday : 
+1994年1月14日
+register_time : null
+education_info : null
+tags : [新闻趣事, 旅游, 穿衣美容, 英语, 财经, 90后, 经济, 社会]
+useful_tags : [财经, 财经]
+level : Lv.14
+sex : 0
+fans_num : 464
+weibo_num : 2478
+attention_num : 416
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:346 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你头像屌
+user_summary : Just for my love 曾用名：宝小--坏坏
+residence : 
+河南 开封
+birthday : 
+天蝎座
+register_time : null
+education_info : null
+tags : [天蝎座, pokemon, 谢娜, 张杰, 孙燕姿, 懒人兼傻蛋一枚, hebe田馥甄, 爱情公寓]
+useful_tags : [明星]
+level : Lv.32
+sex : 1
+fans_num : 1085
+weibo_num : 8623
+attention_num : 1603
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:346 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Miranda_要健身要早睡
+user_summary : 胖成一坨的小白
+residence : 
+辽宁 沈阳
+birthday : 
+12月20日
+register_time : null
+education_info : null
+tags : [教育就业, 军事, IT数码, 文艺]
+useful_tags : [军事, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 240
+weibo_num : 2141
+attention_num : 334
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:347 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 雾雨成殇
+user_summary : 愿得一人心，白首不分离。
+residence : 
+广西 玉林
+birthday : 
+1994年2月17日
+register_time : null
+education_info : null
+tags : [月光族, 外貌协会, 宅男, 听歌, 90后]
+useful_tags : [音乐]
+level : Lv.22
+sex : 1
+fans_num : 258
+weibo_num : 2617
+attention_num : 263
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:348 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : fjfan
+user_summary : 天之道，损有余而补不足。是故虚胜实，不足胜有余。
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [彩妆, 护肤, Leslie, 处女座, 动漫, hunter, OP, 老福, 卡殿]
+useful_tags : [动漫]
+level : Lv.38
+sex : 1
+fans_num : 1147
+weibo_num : 28231
+attention_num : 193
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:348 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你放屁丨
+user_summary : 
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [临汾生活, 校园生活, 视频音乐, 重口味]
+useful_tags : [音乐]
+level : Lv.14
+sex : 1
+fans_num : 93
+weibo_num : 3337
+attention_num : 577
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:349 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 墨嵐
+user_summary : 重則輕  輕則重  是厚重的土  也是輕柔的風
+residence : 
+新疆 巴音郭楞
+birthday : 
+1989年12月23日
+register_time : null
+education_info : null
+tags : [视频音乐, 八卦杂谈]
+useful_tags : [音乐, 明星]
+level : Lv.22
+sex : 1
+fans_num : 88
+weibo_num : 1347
+attention_num : 249
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:350 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Cha茶dei海
+user_summary : 自娱自乐的高地人
+residence : 
+海外 美国
+birthday : 
+1987年7月4日
+register_time : null
+education_info : null
+tags : [读书分享, 旅游, 美容服饰, 视频音乐]
+useful_tags : [文艺, 音乐]
+level : Lv.14
+sex : 0
+fans_num : 37
+weibo_num : 260
+attention_num : 90
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:350 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 叫她麦子
+user_summary : 中国传媒大学13戏剧影视美术设计      行动缓慢的自由人
+residence : 
+江苏 苏州
+birthday : 
+8月20日
+register_time : null
+education_info : null
+tags : [视频音乐, 花样美男, 美容服饰, 美图摄影]
+useful_tags : [音乐]
+level : Lv.23
+sex : 0
+fans_num : 376
+weibo_num : 425
+attention_num : 755
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:351 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 胖凡是个奥迪特
+user_summary : 热爱音乐的前审计狗+怪咖一个~
+residence : 
+云南 保山
+birthday : 
+1990年10月27日
+register_time : null
+education_info : null
+tags : [审计, 财务, 金融, 音乐, 旅游, 美食, lancaster, 唱歌, UNNC]
+useful_tags : [财经, 音乐, 美食, 音乐]
+level : Lv.36
+sex : 1
+fans_num : 1805
+weibo_num : 9021
+attention_num : 592
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:352 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 系上你鞋带的我的手
+user_summary : 我喜欢这样跟着你，随便你带我到哪里。你的脸慢慢贴近，明天也慢慢地慢慢清晰。我喜欢你爱我的心，轻触我每根手指感应，我知道它在诉说着你承诺言语。
+residence : 
+海外
+birthday : 
+2015年8月21日
+register_time : null
+education_info : null
+tags : [新闻资讯, 旅游, 体育, 文艺, 健康, 美食, IT数码]
+useful_tags : [体育, 文艺, 美食]
+level : Lv.9
+
+sex : 1
+fans_num : 25
+weibo_num : 124
+attention_num : 35
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:352 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 妮子_许个愿吧
+user_summary : 感谢每一天的精彩
+residence : 
+福建 福州
+birthday : null
+register_time : null
+education_info : null
+tags : [美食, 旅游, 健康]
+useful_tags : [美食]
+level : Lv.25
+sex : 0
+fans_num : 167
+weibo_num : 871
+attention_num : 350
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:356 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 虫子的第三只眼
+user_summary : 镜头是我的第三只眼，透过这只眼看的世界可能和你所看的有所不同。
+residence : 
+广东 广州
+birthday : 
+1970年12月16日
+register_time : null
+education_info : null
+tags : [汽车, 音乐, 电影, 摄影]
+useful_tags : [音乐, 电影]
+level : Lv.9
+
+sex : 1
+fans_num : 7
+weibo_num : 17
+attention_num : 3
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:368 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : WM339339
+user_summary : 努力
+residence : 
+上海 黄浦区
+birthday : 
+1995年12月12日
+register_time : null
+education_info : null
+tags : [情绪化, 唱歌]
+useful_tags : [音乐]
+level : Lv.30
+sex : 1
+fans_num : 1670
+weibo_num : 1527
+attention_num : 422
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:369 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 虔诚仰望
+user_summary : 不吹晚风 不喝烈酒
+residence : 
+河北 保定
+birthday : 
+1994年10月19日
+register_time : null
+education_info : null
+tags : [新闻资讯, 星座命理, 娱乐, 听相声, 写作]
+useful_tags : [文艺]
+level : Lv.14
+sex : 0
+fans_num : 121
+weibo_num : 906
+attention_num : 142
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:369 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 长生天恩赐
+user_summary : 根在蒙古。
+residence : 
+内蒙古 呼和浩特
+birthday : 
+1978年9月10日
+register_time : null
+education_info : null
+tags : [内蒙古生活, 旅游, 健康, 投资理财, 汽车]
+useful_tags : [财经]
+level : Lv.28
+sex : 1
+fans_num : 1777
+weibo_num : 3577
+attention_num : 584
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:370 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : hohhhoyeah
+user_summary : hi !
+residence : 
+广东 深圳
+birthday : null
+register_time : null
+education_info : null
+tags : [Stan, eminem, 电影控, 平湖中学]
+useful_tags : [电影]
+level : Lv.35
+sex : 1
+fans_num : 663
+weibo_num : 1886
+attention_num : 505
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:370 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 有点儿晕晕
+user_summary : 现实的社会！自己爱自己！
+residence : 
+浙江 台州
+birthday : null
+register_time : null
+education_info : null
+tags : [星座命理, 时尚, 文艺, 健康]
+useful_tags : [文艺]
+level : Lv.27
+sex : 0
+fans_num : 676
+weibo_num : 925
+attention_num : 1160
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:371 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : ixjua
+user_summary : 好想睡觉啊~
+residence : 
+其他
+birthday : null
+register_time : null
+education_info : null
+tags : [文艺, IT数码, 健康, 时尚]
+useful_tags : [文艺]
+level : Lv.12
+sex : 0
+fans_num : 98
+weibo_num : 2350
+attention_num : 121
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:46:41  [ main:372 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Musiclifebetter
+user_summary : 分享音乐
+residence : 
+湖南 常德
+birthday : null
+register_time : null
+education_info : null
+tags : [唱k, 健康, 谭维维, 音乐]
+useful_tags : [音乐]
+level : Lv.29
+sex : 1
+fans_num : 117
+weibo_num : 5792
+attention_num : 114
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:47:55  [ main:288 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 20:47:55  [ main:290 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:291 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:292 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : _几月
+user_summary : 有趣又温柔
+residence : 
+上海
+birthday : 
+1997年10月6日
+register_time : null
+education_info : null
+tags : [美食, 旅游, 娱乐, 文艺]
+useful_tags : [美食, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 197
+weibo_num : 18
+attention_num : 182
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:295 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Takeshi-Arale
+user_summary : 几步之遥 一生距离
+residence : 
+湖南
+birthday : 
+1994年1月14日
+register_time : null
+education_info : null
+tags : [新闻趣事, 旅游, 穿衣美容, 英语, 财经, 90后, 经济, 社会, 政治]
+useful_tags : [财经, 财经]
+level : Lv.14
+sex : 0
+fans_num : 464
+weibo_num : 2478
+attention_num : 416
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:296 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你头像屌
+user_summary : Just for my love 曾用名：宝小--坏坏
+residence : 
+河南 开封
+birthday : 
+天蝎座
+register_time : null
+education_info : null
+tags : [天蝎座, pokemon, 谢娜, 张杰, 孙燕姿, 懒人兼傻蛋一枚, hebe田馥甄, 爱情公寓, 95后]
+useful_tags : [明星]
+level : Lv.32
+sex : 1
+fans_num : 1085
+weibo_num : 8623
+attention_num : 1603
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:296 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Miranda_要健身要早睡
+user_summary : 胖成一坨的小白
+residence : 
+辽宁 沈阳
+birthday : 
+12月20日
+register_time : null
+education_info : null
+tags : [教育就业, 军事, IT数码, 文艺, 娱乐]
+useful_tags : [军事, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 240
+weibo_num : 2141
+attention_num : 334
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:297 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 雾雨成殇
+user_summary : 愿得一人心，白首不分离。
+residence : 
+广西 玉林
+birthday : 
+1994年2月17日
+register_time : null
+education_info : null
+tags : [月光族, 外貌协会, 宅男, 听歌, 90后, 大爱黄英]
+useful_tags : [音乐]
+level : Lv.22
+sex : 1
+fans_num : 258
+weibo_num : 2617
+attention_num : 263
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:298 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : fjfan
+user_summary : 天之道，损有余而补不足。是故虚胜实，不足胜有余。
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [彩妆, 护肤, Leslie, 处女座, 动漫, hunter, OP, 老福, 卡殿, ZS]
+useful_tags : [动漫]
+level : Lv.38
+sex : 1
+fans_num : 1147
+weibo_num : 28231
+attention_num : 193
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:298 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你放屁丨
+user_summary : 
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [临汾生活, 校园生活, 视频音乐, 重口味, 搞笑幽默]
+useful_tags : [音乐, 搞笑幽默]
+level : Lv.14
+sex : 1
+fans_num : 93
+weibo_num : 3337
+attention_num : 577
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:299 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 墨嵐
+user_summary : 重則輕  輕則重  是厚重的土  也是輕柔的風
+residence : 
+新疆 巴音郭楞
+birthday : 
+1989年12月23日
+register_time : null
+education_info : null
+tags : [视频音乐, 八卦杂谈, 旅游]
+useful_tags : [音乐, 明星]
+level : Lv.22
+sex : 1
+fans_num : 88
+weibo_num : 1347
+attention_num : 249
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:299 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Cha茶dei海
+user_summary : 自娱自乐的高地人
+residence : 
+海外 美国
+birthday : 
+1987年7月4日
+register_time : null
+education_info : null
+tags : [读书分享, 旅游, 美容服饰, 视频音乐, 美国生活]
+useful_tags : [文艺, 音乐]
+level : Lv.14
+sex : 0
+fans_num : 37
+weibo_num : 260
+attention_num : 90
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:300 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 叫她麦子
+user_summary : 中国传媒大学13戏剧影视美术设计      行动缓慢的自由人
+residence : 
+江苏 苏州
+birthday : 
+8月20日
+register_time : null
+education_info : null
+tags : [视频音乐, 花样美男, 美容服饰, 美图摄影, 美食]
+useful_tags : [音乐, 美食]
+level : Lv.23
+sex : 0
+fans_num : 376
+weibo_num : 425
+attention_num : 755
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:301 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 胖凡是个奥迪特
+user_summary : 热爱音乐的前审计狗+怪咖一个~
+residence : 
+云南 保山
+birthday : 
+1990年10月27日
+register_time : null
+education_info : null
+tags : [审计, 财务, 金融, 音乐, 旅游, 美食, lancaster, 唱歌, UNNC, 生活]
+useful_tags : [财经, 音乐, 美食, 音乐]
+level : Lv.36
+sex : 1
+fans_num : 1805
+weibo_num : 9021
+attention_num : 592
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:302 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 系上你鞋带的我的手
+user_summary : 我喜欢这样跟着你，随便你带我到哪里。你的脸慢慢贴近，明天也慢慢地慢慢清晰。我喜欢你爱我的心，轻触我每根手指感应，我知道它在诉说着你承诺言语。
+residence : 
+海外
+birthday : 
+2015年8月21日
+register_time : null
+education_info : null
+tags : [新闻资讯, 旅游, 体育, 文艺, 健康, 美食, IT数码, 娱乐]
+useful_tags : [体育, 文艺, 美食]
+level : Lv.9
+
+sex : 1
+fans_num : 25
+weibo_num : 124
+attention_num : 35
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:305 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 妮子_许个愿吧
+user_summary : 感谢每一天的精彩
+residence : 
+福建 福州
+birthday : null
+register_time : null
+education_info : null
+tags : [美食, 旅游, 健康, 娱乐]
+useful_tags : [美食]
+level : Lv.25
+sex : 0
+fans_num : 167
+weibo_num : 871
+attention_num : 350
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:313 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 虫子的第三只眼
+user_summary : 镜头是我的第三只眼，透过这只眼看的世界可能和你所看的有所不同。
+residence : 
+广东 广州
+birthday : 
+1970年12月16日
+register_time : null
+education_info : null
+tags : [汽车, 音乐, 电影, 摄影, 围棋]
+useful_tags : [音乐, 电影]
+level : Lv.9
+
+sex : 1
+fans_num : 7
+weibo_num : 17
+attention_num : 3
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:314 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Sundy孫東堯
+user_summary : Mockingbird；
+residence : 
+北京 朝阳区
+birthday : 
+1993年5月19日
+register_time : null
+education_info : null
+tags : [搞笑幽默]
+useful_tags : [搞笑幽默]
+level : Lv.19
+sex : 1
+fans_num : 108
+weibo_num : 193
+attention_num : 103
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:315 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : WM339339
+user_summary : 努力
+residence : 
+上海 黄浦区
+birthday : 
+1995年12月12日
+register_time : null
+education_info : null
+tags : [情绪化, 唱歌, 逛街]
+useful_tags : [音乐]
+level : Lv.30
+sex : 1
+fans_num : 1670
+weibo_num : 1527
+attention_num : 422
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:315 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 虔诚仰望
+user_summary : 不吹晚风 不喝烈酒
+residence : 
+河北 保定
+birthday : 
+1994年10月19日
+register_time : null
+education_info : null
+tags : [新闻资讯, 星座命理, 娱乐, 听相声, 写作, 旅游]
+useful_tags : [文艺]
+level : Lv.14
+sex : 0
+fans_num : 121
+weibo_num : 906
+attention_num : 142
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:316 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 长生天恩赐
+user_summary : 根在蒙古。
+residence : 
+内蒙古 呼和浩特
+birthday : 
+1978年9月10日
+register_time : null
+education_info : null
+tags : [内蒙古生活, 旅游, 健康, 投资理财, 汽车, 新闻资讯]
+useful_tags : [财经]
+level : Lv.28
+sex : 1
+fans_num : 1777
+weibo_num : 3577
+attention_num : 584
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:317 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : hohhhoyeah
+user_summary : hi !
+residence : 
+广东 深圳
+birthday : null
+register_time : null
+education_info : null
+tags : [Stan, eminem, 电影控, 平湖中学, 平冈中学]
+useful_tags : [电影]
+level : Lv.35
+sex : 1
+fans_num : 663
+weibo_num : 1886
+attention_num : 505
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:47:55  [ main:317 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 佟佳博文227
+user_summary : 独立音乐人摇滚歌手 新单曲及MV即将全国发行 于2017 ，2016签自纽沃斯旗下
+residence : 
+台湾 台北市
+birthday : 
+双鱼座
+register_time : null
+education_info : null
+tags : [视频音乐]
+useful_tags : [音乐]
+level : Lv.19
+sex : 1
+fans_num : 1327
+weibo_num : 1281
+attention_num : 186
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:22  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 20:48:22  [ main:332 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有5396条
+2017-03-14 20:48:23  [ main:337 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:338 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Bling-Bling韩同学
+user_summary : Hi,菇凉🙋🏻
+residence : 
+山东 威海
+birthday : 
+1996年1月25日
+register_time : null
+education_info : null
+tags : [酒窝控, 神经质, 学生, 狗狗, 水瓶]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 149
+weibo_num : 1018
+attention_num : 202
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:339 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:344 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : _几月
+user_summary : 有趣又温柔
+residence : 
+上海
+birthday : 
+1997年10月6日
+register_time : null
+education_info : null
+tags : [美食, 旅游, 娱乐, 文艺]
+useful_tags : [美食, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 197
+weibo_num : 18
+attention_num : 182
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:344 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小婧Mia
+user_summary : Live Alive - Love n Peace
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [小鱼女, 边看边拍]
+useful_tags : []
+level : Lv.24
+sex : 0
+fans_num : 726
+weibo_num : 445
+attention_num : 197
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:345 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 我是韋疯子
+user_summary : 🌵念旧爱的花心大双鱼
+residence : 
+广西 南宁
+birthday : 
+1995年3月7日
+register_time : null
+education_info : null
+tags : [星座命理]
+useful_tags : []
+level : Lv.35
+sex : 0
+fans_num : 778
+weibo_num : 8044
+attention_num : 363
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:346 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Takeshi-Arale
+user_summary : 几步之遥 一生距离
+residence : 
+湖南
+birthday : 
+1994年1月14日
+register_time : null
+education_info : null
+tags : [新闻趣事, 旅游, 穿衣美容, 英语, 财经, 90后, 经济, 社会, 政治]
+useful_tags : [财经, 财经]
+level : Lv.14
+sex : 0
+fans_num : 464
+weibo_num : 2478
+attention_num : 416
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:346 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 大王大脸大猫大婶儿
+user_summary : 我们是少女！！！
+residence : 
+重庆 沙坪坝区
+birthday : 
+2月20日
+register_time : null
+education_info : null
+tags : [小小小小律师, 武林萌主, 包大人, 犯2的猫麻麻, 爱吃肉的死胖子, 从没睡醒过, 脸很大]
+useful_tags : []
+level : Lv.30
+sex : 0
+fans_num : 369
+weibo_num : 5622
+attention_num : 509
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:347 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : HowieTsui
+user_summary : 既艱且險
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [浙大玉泉之音, 睡不饱]
+useful_tags : []
+level : Lv.27
+sex : 1
+fans_num : 246
+weibo_num : 1606
+attention_num : 292
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:347 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Dinnnana
+user_summary : 
+residence : 
+陕西 西安
+birthday : 
+1994年2月16日
+register_time : null
+education_info : null
+tags : [新闻资讯, 娱乐, 星座命理, 美女, 时尚]
+useful_tags : []
+level : Lv.30
+sex : 0
+fans_num : 1789
+weibo_num : 16
+attention_num : 277
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:348 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你头像屌
+user_summary : Just for my love 曾用名：宝小--坏坏
+residence : 
+河南 开封
+birthday : 
+天蝎座
+register_time : null
+education_info : null
+tags : [天蝎座, pokemon, 谢娜, 张杰, 孙燕姿, 懒人兼傻蛋一枚, hebe田馥甄, 爱情公寓, 95后]
+useful_tags : [明星]
+level : Lv.32
+sex : 1
+fans_num : 1085
+weibo_num : 8623
+attention_num : 1603
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:348 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Miranda_要健身要早睡
+user_summary : 胖成一坨的小白
+residence : 
+辽宁 沈阳
+birthday : 
+12月20日
+register_time : null
+education_info : null
+tags : [教育就业, 军事, IT数码, 文艺, 娱乐]
+useful_tags : [军事, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 240
+weibo_num : 2141
+attention_num : 334
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:349 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 雾雨成殇
+user_summary : 愿得一人心，白首不分离。
+residence : 
+广西 玉林
+birthday : 
+1994年2月17日
+register_time : null
+education_info : null
+tags : [月光族, 外貌协会, 宅男, 听歌, 90后, 大爱黄英]
+useful_tags : [音乐]
+level : Lv.22
+sex : 1
+fans_num : 258
+weibo_num : 2617
+attention_num : 263
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:349 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 致_远r
+user_summary : 在这荒野无灯的世界里，我并不怕冷，却怕没有一盏唤我归去的灯！
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [旅游, 阳光, 魔羯座]
+useful_tags : []
+level : Lv.25
+sex : 1
+fans_num : 676
+weibo_num : 317
+attention_num : 307
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:351 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : halcyon_lucky_narration
+user_summary : 身体好胃口才会好
+residence : 
+广东 湛江
+birthday : null
+register_time : null
+education_info : null
+tags : [希望大家都能幸, 三观不合勿扰, 美食家进化中, 身高是硬伤, 剑三军爷, 大爱哥哥姐姐们, 半宅腐女]
+useful_tags : []
+level : Lv.14
+sex : 0
+fans_num : 194
+weibo_num : 7493
+attention_num : 303
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:364 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 阿茭茭茭茭茭茭____
+user_summary : 你别悄悄松开你的梦想 迟早有一天他会在你手里发光。
+residence : 
+河南 平顶山
+birthday : null
+register_time : null
+education_info : null
+tags : [美图摄影]
+useful_tags : []
+level : Lv.23
+sex : 0
+fans_num : 160
+weibo_num : 552
+attention_num : 253
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:365 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 沉沉沉沉沉沉沉啊沉
+user_summary : 又到了双马尾的季节ฅ(*°ω°*ฅ)*
+residence : 
+江西 吉安
+birthday : 
+1995年9月2日
+register_time : null
+education_info : null
+tags : [妮姬党, 心理学专业, 矢泽妮可, lovelive！, winky诗, 飞儿乐团, 洪榛浩, 王俊雄, 牡丹亭, 新世纪音乐]
+useful_tags : []
+level : Lv.29
+sex : 0
+fans_num : 254
+weibo_num : 2719
+attention_num : 265
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:366 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : fjfan
+user_summary : 天之道，损有余而补不足。是故虚胜实，不足胜有余。
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [彩妆, 护肤, Leslie, 处女座, 动漫, hunter, OP, 老福, 卡殿, ZS]
+useful_tags : [动漫]
+level : Lv.38
+sex : 1
+fans_num : 1147
+weibo_num : 28231
+attention_num : 193
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:367 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你放屁丨
+user_summary : 
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [临汾生活, 校园生活, 视频音乐, 重口味, 搞笑幽默]
+useful_tags : [音乐, 搞笑幽默]
+level : Lv.14
+sex : 1
+fans_num : 93
+weibo_num : 3337
+attention_num : 577
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:368 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 冬儿-147
+user_summary : 关注、支持丁俊晖。关注斯诺克赛事、评论和档案数据统计。
+residence : 
+上海 宝山区
+birthday : null
+register_time : null
+education_info : null
+tags : [台球]
+useful_tags : []
+level : Lv.29
+sex : 1
+fans_num : 673
+weibo_num : 2250
+attention_num : 204
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:369 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 墨嵐
+user_summary : 重則輕  輕則重  是厚重的土  也是輕柔的風
+residence : 
+新疆 巴音郭楞
+birthday : 
+1989年12月23日
+register_time : null
+education_info : null
+tags : [视频音乐, 八卦杂谈, 旅游]
+useful_tags : [音乐, 明星]
+level : Lv.22
+sex : 1
+fans_num : 88
+weibo_num : 1347
+attention_num : 249
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 20:48:23  [ main:370 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Cha茶dei海
+user_summary : 自娱自乐的高地人
+residence : 
+海外 美国
+birthday : 
+1987年7月4日
+register_time : null
+education_info : null
+tags : [读书分享, 旅游, 美容服饰, 视频音乐, 美国生活]
+useful_tags : [文艺, 音乐]
+level : Lv.14
+sex : 0
+fans_num : 37
+weibo_num : 260
+attention_num : 90
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 21:28:08  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 21:28:08  [ main:316 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 21:28:08  [ main:330 ] - [ INFO ]  Program_info load 完成
+2017-03-14 21:28:08  [ main:355 ] - [ DEBUG ]  @relation base_instances
+
+@attribute 中国之星 numeric
+@attribute 动物世界 numeric
+@attribute 大丈夫 numeric
+@attribute 花千骨 numeric
+@attribute 音乐风云榜 numeric
+@attribute 军事纪实 numeric
+@attribute 一仆二主 numeric
+@attribute 军事报道 numeric
+@attribute 动画片 numeric
+@attribute 第一动画乐园 numeric
+@attribute 普法栏目剧 numeric
+@attribute 勇敢的心 numeric
+@attribute 奔跑吧兄弟 numeric
+@attribute 都市房产报道 numeric
+@attribute 传奇 numeric
+@attribute 超级访问 numeric
+@attribute 笑傲江湖 numeric
+@attribute 天气预报 numeric
+@attribute 综艺喜乐汇 numeric
+@attribute 天下父母 numeric
+@attribute 传家 numeric
+@attribute 寂寞空庭春欲晚 numeric
+@attribute 傻儿传奇 numeric
+@attribute 加油吧实习生 numeric
+@attribute 刀客家族的女人 numeric
+@attribute 剑侠传奇 numeric
+@attribute 玄奘之路 numeric
+@attribute 薛平贵与王宝钏 numeric
+@attribute 王牌对王牌 numeric
+@attribute 红高粱 numeric
+@attribute 法治时空 numeric
+@attribute 天网 numeric
+@attribute 新萧十一郎 numeric
+@attribute 观点致胜 numeric
+@attribute 军旅人生 numeric
+@attribute 人与健康 numeric
+@attribute 打狗棍 numeric
+@attribute 晚间新闻 numeric
+@attribute 法律讲堂 numeric
+@attribute 二胎时代 numeric
+@attribute 夜线 numeric
+@attribute 非常静距离 numeric
+@attribute 吉尼斯中国之夜 numeric
+@attribute 有一说一 numeric
+@attribute 琅琊榜 numeric
+@attribute 防务新观察 numeric
+@attribute 爱情保卫战 numeric
+@attribute 直播全球 numeric
+@attribute 中国成语大会 numeric
+@attribute 光荣绽放 numeric
+@attribute 精彩音乐汇 numeric
+@attribute 知音人间 numeric
+@attribute 热线12 numeric
+@attribute 二十四小时 numeric
+@attribute 爱情回来了 numeric
+@attribute 技行天下 numeric
+@attribute 影视留声机 numeric
+@attribute 江苏新时空 numeric
+@attribute 天津新闻 numeric
+@attribute 幸福请你等等我 numeric
+@attribute 新闻眼 numeric
+@attribute 冰雪奇迹 numeric
+@attribute 战长沙 numeric
+@attribute 陆军一号 numeric
+@attribute 非你莫属 numeric
+@attribute 财经壹资讯 numeric
+@attribute 还是夫妻 numeric
+@attribute 开门大吉 numeric
+@attribute 食尚大转盘 numeric
+@attribute 天天有喜之人间有爱 numeric
+@attribute 乡土 numeric
+@attribute 新闻联播 numeric
+@attribute 西游记 numeric
+@attribute 夜栈 numeric
+@attribute CCTV家庭幽默大赛 numeric
+@attribute 人与自然 numeric
+@attribute 非常故事汇 numeric
+@attribute 农业气象 numeric
+@attribute 12点报道 numeric
+@attribute 幸福来敲门 numeric
+@attribute 卡通乐园 numeric
+@attribute 舌尖上的中国 numeric
+@attribute 现场说法 numeric
+@attribute 聚焦三农 numeric
+@attribute 传奇中国 numeric
+@attribute 新视界 numeric
+@attribute X档案 numeric
+@attribute 越战越勇 numeric
+@attribute 箭在弦上 numeric
+@attribute 记者再报告 numeric
+@attribute 天天有喜 numeric
+@attribute 回声嘹亮 numeric
+@attribute 黄金100秒 numeric
+@attribute 星光大道 numeric
+@attribute 焦点访谈 numeric
+@attribute 武媚娘传奇 numeric
+@attribute 校园好声音 numeric
+@attribute 广东新闻联播 numeric
+@attribute 讲武堂 numeric
+@attribute 来玩吧 numeric
+@attribute 幸福账单 numeric
+@attribute 幽默观察家 numeric
+@attribute 金牌调解 numeric
+@attribute 燃烧吧少年 numeric
+@attribute 朝闻天下 numeric
+@attribute 唐伯虎点秋香 numeric
+@attribute 今日说法 numeric
+@attribute 综艺盛典 numeric
+@attribute 致富经 numeric
+@attribute 你会怎么做 numeric
+@attribute 车天下 numeric
+@attribute 天作之合 numeric
+@attribute 谢谢你来了 numeric
+@attribute 农广天地 numeric
+@attribute 新闻深一度 numeric
+@attribute 平安365 numeric
+@attribute 夕阳红 numeric
+@attribute 过年 numeric
+@attribute 青丘狐传说 numeric
+@attribute 快乐大本营 numeric
+@attribute 乡村法制剧场 numeric
+@attribute 微视频大赛 numeric
+@attribute 快乐生活一点通 numeric
+@attribute 杨澜访谈录 numeric
+@attribute 我爱满堂彩 numeric
+@attribute 旋风孝子 numeric
+@attribute 军事科技 numeric
+@attribute 娱乐梦工厂 numeric
+@attribute 美丽中国乡村行 numeric
+@attribute 最强大脑 numeric
+@attribute 娱乐星天地 numeric
+@attribute 专题 numeric
+@attribute 旋风少女 numeric
+@attribute 北平无战事 numeric
+@attribute 西游奇遇记 numeric
+@attribute 每日农经 numeric
+@attribute 爸爸在海外 numeric
+@attribute 闯关东 numeric
+@attribute 百战经典 numeric
+@attribute 动漫世界 numeric
+@attribute 中国经营者 numeric
+@attribute 射雕英雄传 numeric
+@attribute 向幸福出发 numeric
+@attribute 何以笙箫默 numeric
+@attribute 中国故事 numeric
+@attribute 昆仑决 numeric
+@attribute 甄嬛传 numeric
+@attribute 心理访谈 numeric
+@attribute 优漫星未来 numeric
+@attribute 加油小当家 numeric
+@attribute 暴走吧队友 numeric
+@attribute 全球零距离 numeric
+@attribute 天天向上 numeric
+@attribute 中国梦想秀 numeric
+@attribute 绿茵继承者 numeric
+@attribute 等你爱我 numeric
+@attribute 军迷淘天下 numeric
+@attribute 私人订制 numeric
+@attribute 夏洛特烦恼 numeric
+@attribute 职来职往 numeric
+@attribute 逃出生天 numeric
+@attribute 过年啦 numeric
+@attribute 港囧 numeric
+@attribute 文化之旅 numeric
+@attribute 金星秀 numeric
+@attribute 喜羊羊与灰太狼 numeric
+@attribute 班淑传奇 numeric
+@attribute 大声说出来 numeric
+@attribute 一站到底 numeric
+@attribute 财经郎眼 numeric
+@attribute 社会纵横 numeric
+@attribute 神探狄仁杰 numeric
+@attribute 陪你读书 numeric
+@attribute 俺娘田小草 numeric
+@attribute 黑猩猩 numeric
+@attribute 我有传家宝 numeric
+@attribute 幸福一家亲 numeric
+@attribute 追鱼传奇 numeric
+@attribute 文化正午 numeric
+@attribute 商道 numeric
+@attribute 神雕侠侣 numeric
+@attribute 女医明妃传 numeric
+@attribute 古剑奇谭 numeric
+@attribute 群英会 numeric
+@attribute 食鉴出真知 numeric
+@attribute 经典剧场 numeric
+@attribute 寻宝 numeric
+@attribute 天天健康 numeric
+@attribute 走近中国消防 numeric
+@attribute 巨神战击队 numeric
+@attribute 寻找爱的冒险 numeric
+@attribute 泊客中国 numeric
+@attribute 求爱大作战 numeric
+@attribute 西游降魔篇 numeric
+@attribute 闪亮的爸爸 numeric
+@attribute 减出我人生 numeric
+@attribute 五鼠闹东京 numeric
+@attribute 东方新闻 numeric
+@attribute 梨园闯关我挂帅 numeric
+@attribute 明星同乐会 numeric
+@attribute 中国音乐电视 numeric
+@attribute 华豫之门 numeric
+@attribute 直播港澳台 numeric
+@attribute key_class numeric
+
+@data
+
+2017-03-14 21:28:51  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 21:28:51  [ main:311 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 21:28:51  [ main:328 ] - [ INFO ]  Program_info load 完成
+2017-03-14 21:28:51  [ main:346 ] - [ DEBUG ]  @relation base_instances
+
+@attribute 中国之星 numeric
+@attribute 动物世界 numeric
+@attribute 大丈夫 numeric
+@attribute 花千骨 numeric
+@attribute 音乐风云榜 numeric
+@attribute 军事纪实 numeric
+@attribute 一仆二主 numeric
+@attribute 军事报道 numeric
+@attribute 动画片 numeric
+@attribute 第一动画乐园 numeric
+@attribute 普法栏目剧 numeric
+@attribute 勇敢的心 numeric
+@attribute 奔跑吧兄弟 numeric
+@attribute 都市房产报道 numeric
+@attribute 传奇 numeric
+@attribute 超级访问 numeric
+@attribute 笑傲江湖 numeric
+@attribute 天气预报 numeric
+@attribute 综艺喜乐汇 numeric
+@attribute 天下父母 numeric
+@attribute 传家 numeric
+@attribute 寂寞空庭春欲晚 numeric
+@attribute 傻儿传奇 numeric
+@attribute 加油吧实习生 numeric
+@attribute 刀客家族的女人 numeric
+@attribute 剑侠传奇 numeric
+@attribute 玄奘之路 numeric
+@attribute 薛平贵与王宝钏 numeric
+@attribute 王牌对王牌 numeric
+@attribute 红高粱 numeric
+@attribute 法治时空 numeric
+@attribute 天网 numeric
+@attribute 新萧十一郎 numeric
+@attribute 观点致胜 numeric
+@attribute 军旅人生 numeric
+@attribute 人与健康 numeric
+@attribute 打狗棍 numeric
+@attribute 晚间新闻 numeric
+@attribute 法律讲堂 numeric
+@attribute 二胎时代 numeric
+@attribute 夜线 numeric
+@attribute 非常静距离 numeric
+@attribute 吉尼斯中国之夜 numeric
+@attribute 有一说一 numeric
+@attribute 琅琊榜 numeric
+@attribute 防务新观察 numeric
+@attribute 爱情保卫战 numeric
+@attribute 直播全球 numeric
+@attribute 中国成语大会 numeric
+@attribute 光荣绽放 numeric
+@attribute 精彩音乐汇 numeric
+@attribute 知音人间 numeric
+@attribute 热线12 numeric
+@attribute 二十四小时 numeric
+@attribute 爱情回来了 numeric
+@attribute 技行天下 numeric
+@attribute 影视留声机 numeric
+@attribute 江苏新时空 numeric
+@attribute 天津新闻 numeric
+@attribute 幸福请你等等我 numeric
+@attribute 新闻眼 numeric
+@attribute 冰雪奇迹 numeric
+@attribute 战长沙 numeric
+@attribute 陆军一号 numeric
+@attribute 非你莫属 numeric
+@attribute 财经壹资讯 numeric
+@attribute 还是夫妻 numeric
+@attribute 开门大吉 numeric
+@attribute 食尚大转盘 numeric
+@attribute 天天有喜之人间有爱 numeric
+@attribute 乡土 numeric
+@attribute 新闻联播 numeric
+@attribute 西游记 numeric
+@attribute 夜栈 numeric
+@attribute CCTV家庭幽默大赛 numeric
+@attribute 人与自然 numeric
+@attribute 非常故事汇 numeric
+@attribute 农业气象 numeric
+@attribute 12点报道 numeric
+@attribute 幸福来敲门 numeric
+@attribute 卡通乐园 numeric
+@attribute 舌尖上的中国 numeric
+@attribute 现场说法 numeric
+@attribute 聚焦三农 numeric
+@attribute 传奇中国 numeric
+@attribute 新视界 numeric
+@attribute X档案 numeric
+@attribute 越战越勇 numeric
+@attribute 箭在弦上 numeric
+@attribute 记者再报告 numeric
+@attribute 天天有喜 numeric
+@attribute 回声嘹亮 numeric
+@attribute 黄金100秒 numeric
+@attribute 星光大道 numeric
+@attribute 焦点访谈 numeric
+@attribute 武媚娘传奇 numeric
+@attribute 校园好声音 numeric
+@attribute 广东新闻联播 numeric
+@attribute 讲武堂 numeric
+@attribute 来玩吧 numeric
+@attribute 幸福账单 numeric
+@attribute 幽默观察家 numeric
+@attribute 金牌调解 numeric
+@attribute 燃烧吧少年 numeric
+@attribute 朝闻天下 numeric
+@attribute 唐伯虎点秋香 numeric
+@attribute 今日说法 numeric
+@attribute 综艺盛典 numeric
+@attribute 致富经 numeric
+@attribute 你会怎么做 numeric
+@attribute 车天下 numeric
+@attribute 天作之合 numeric
+@attribute 谢谢你来了 numeric
+@attribute 农广天地 numeric
+@attribute 新闻深一度 numeric
+@attribute 平安365 numeric
+@attribute 夕阳红 numeric
+@attribute 过年 numeric
+@attribute 青丘狐传说 numeric
+@attribute 快乐大本营 numeric
+@attribute 乡村法制剧场 numeric
+@attribute 微视频大赛 numeric
+@attribute 快乐生活一点通 numeric
+@attribute 杨澜访谈录 numeric
+@attribute 我爱满堂彩 numeric
+@attribute 旋风孝子 numeric
+@attribute 军事科技 numeric
+@attribute 娱乐梦工厂 numeric
+@attribute 美丽中国乡村行 numeric
+@attribute 最强大脑 numeric
+@attribute 娱乐星天地 numeric
+@attribute 专题 numeric
+@attribute 旋风少女 numeric
+@attribute 北平无战事 numeric
+@attribute 西游奇遇记 numeric
+@attribute 每日农经 numeric
+@attribute 爸爸在海外 numeric
+@attribute 闯关东 numeric
+@attribute 百战经典 numeric
+@attribute 动漫世界 numeric
+@attribute 中国经营者 numeric
+@attribute 射雕英雄传 numeric
+@attribute 向幸福出发 numeric
+@attribute 何以笙箫默 numeric
+@attribute 中国故事 numeric
+@attribute 昆仑决 numeric
+@attribute 甄嬛传 numeric
+@attribute 心理访谈 numeric
+@attribute 优漫星未来 numeric
+@attribute 加油小当家 numeric
+@attribute 暴走吧队友 numeric
+@attribute 全球零距离 numeric
+@attribute 天天向上 numeric
+@attribute 中国梦想秀 numeric
+@attribute 绿茵继承者 numeric
+@attribute 等你爱我 numeric
+@attribute 军迷淘天下 numeric
+@attribute 私人订制 numeric
+@attribute 夏洛特烦恼 numeric
+@attribute 职来职往 numeric
+@attribute 逃出生天 numeric
+@attribute 过年啦 numeric
+@attribute 港囧 numeric
+@attribute 文化之旅 numeric
+@attribute 金星秀 numeric
+@attribute 喜羊羊与灰太狼 numeric
+@attribute 班淑传奇 numeric
+@attribute 大声说出来 numeric
+@attribute 一站到底 numeric
+@attribute 财经郎眼 numeric
+@attribute 社会纵横 numeric
+@attribute 神探狄仁杰 numeric
+@attribute 陪你读书 numeric
+@attribute 俺娘田小草 numeric
+@attribute 黑猩猩 numeric
+@attribute 我有传家宝 numeric
+@attribute 幸福一家亲 numeric
+@attribute 追鱼传奇 numeric
+@attribute 文化正午 numeric
+@attribute 商道 numeric
+@attribute 神雕侠侣 numeric
+@attribute 女医明妃传 numeric
+@attribute 古剑奇谭 numeric
+@attribute 群英会 numeric
+@attribute 食鉴出真知 numeric
+@attribute 经典剧场 numeric
+@attribute 寻宝 numeric
+@attribute 天天健康 numeric
+@attribute 走近中国消防 numeric
+@attribute 巨神战击队 numeric
+@attribute 寻找爱的冒险 numeric
+@attribute 泊客中国 numeric
+@attribute 求爱大作战 numeric
+@attribute 西游降魔篇 numeric
+@attribute 闪亮的爸爸 numeric
+@attribute 减出我人生 numeric
+@attribute 五鼠闹东京 numeric
+@attribute 东方新闻 numeric
+@attribute 梨园闯关我挂帅 numeric
+@attribute 明星同乐会 numeric
+@attribute 中国音乐电视 numeric
+@attribute 华豫之门 numeric
+@attribute 直播港澳台 numeric
+@attribute key_class numeric
+
+@data
+1,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+1,?,?,?,1,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+1,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+2017-03-14 21:33:05  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 21:33:05  [ main:312 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 21:33:05  [ main:328 ] - [ INFO ]  Program_info load 完成
+2017-03-14 21:33:05  [ main:354 ] - [ DEBUG ]  @relation base_instances
+
+@attribute 中国之星 numeric
+@attribute 动物世界 numeric
+@attribute 大丈夫 numeric
+@attribute 花千骨 numeric
+@attribute 音乐风云榜 numeric
+@attribute 军事纪实 numeric
+@attribute 一仆二主 numeric
+@attribute 军事报道 numeric
+@attribute 动画片 numeric
+@attribute 第一动画乐园 numeric
+@attribute 普法栏目剧 numeric
+@attribute 勇敢的心 numeric
+@attribute 奔跑吧兄弟 numeric
+@attribute 都市房产报道 numeric
+@attribute 传奇 numeric
+@attribute 超级访问 numeric
+@attribute 笑傲江湖 numeric
+@attribute 天气预报 numeric
+@attribute 综艺喜乐汇 numeric
+@attribute 天下父母 numeric
+@attribute 传家 numeric
+@attribute 寂寞空庭春欲晚 numeric
+@attribute 傻儿传奇 numeric
+@attribute 加油吧实习生 numeric
+@attribute 刀客家族的女人 numeric
+@attribute 剑侠传奇 numeric
+@attribute 玄奘之路 numeric
+@attribute 薛平贵与王宝钏 numeric
+@attribute 王牌对王牌 numeric
+@attribute 红高粱 numeric
+@attribute 法治时空 numeric
+@attribute 天网 numeric
+@attribute 新萧十一郎 numeric
+@attribute 观点致胜 numeric
+@attribute 军旅人生 numeric
+@attribute 人与健康 numeric
+@attribute 打狗棍 numeric
+@attribute 晚间新闻 numeric
+@attribute 法律讲堂 numeric
+@attribute 二胎时代 numeric
+@attribute 夜线 numeric
+@attribute 非常静距离 numeric
+@attribute 吉尼斯中国之夜 numeric
+@attribute 有一说一 numeric
+@attribute 琅琊榜 numeric
+@attribute 防务新观察 numeric
+@attribute 爱情保卫战 numeric
+@attribute 直播全球 numeric
+@attribute 中国成语大会 numeric
+@attribute 光荣绽放 numeric
+@attribute 精彩音乐汇 numeric
+@attribute 知音人间 numeric
+@attribute 热线12 numeric
+@attribute 二十四小时 numeric
+@attribute 爱情回来了 numeric
+@attribute 技行天下 numeric
+@attribute 影视留声机 numeric
+@attribute 江苏新时空 numeric
+@attribute 天津新闻 numeric
+@attribute 幸福请你等等我 numeric
+@attribute 新闻眼 numeric
+@attribute 冰雪奇迹 numeric
+@attribute 战长沙 numeric
+@attribute 陆军一号 numeric
+@attribute 非你莫属 numeric
+@attribute 财经壹资讯 numeric
+@attribute 还是夫妻 numeric
+@attribute 开门大吉 numeric
+@attribute 食尚大转盘 numeric
+@attribute 天天有喜之人间有爱 numeric
+@attribute 乡土 numeric
+@attribute 新闻联播 numeric
+@attribute 西游记 numeric
+@attribute 夜栈 numeric
+@attribute CCTV家庭幽默大赛 numeric
+@attribute 人与自然 numeric
+@attribute 非常故事汇 numeric
+@attribute 农业气象 numeric
+@attribute 12点报道 numeric
+@attribute 幸福来敲门 numeric
+@attribute 卡通乐园 numeric
+@attribute 舌尖上的中国 numeric
+@attribute 现场说法 numeric
+@attribute 聚焦三农 numeric
+@attribute 传奇中国 numeric
+@attribute 新视界 numeric
+@attribute X档案 numeric
+@attribute 越战越勇 numeric
+@attribute 箭在弦上 numeric
+@attribute 记者再报告 numeric
+@attribute 天天有喜 numeric
+@attribute 回声嘹亮 numeric
+@attribute 黄金100秒 numeric
+@attribute 星光大道 numeric
+@attribute 焦点访谈 numeric
+@attribute 武媚娘传奇 numeric
+@attribute 校园好声音 numeric
+@attribute 广东新闻联播 numeric
+@attribute 讲武堂 numeric
+@attribute 来玩吧 numeric
+@attribute 幸福账单 numeric
+@attribute 幽默观察家 numeric
+@attribute 金牌调解 numeric
+@attribute 燃烧吧少年 numeric
+@attribute 朝闻天下 numeric
+@attribute 唐伯虎点秋香 numeric
+@attribute 今日说法 numeric
+@attribute 综艺盛典 numeric
+@attribute 致富经 numeric
+@attribute 你会怎么做 numeric
+@attribute 车天下 numeric
+@attribute 天作之合 numeric
+@attribute 谢谢你来了 numeric
+@attribute 农广天地 numeric
+@attribute 新闻深一度 numeric
+@attribute 平安365 numeric
+@attribute 夕阳红 numeric
+@attribute 过年 numeric
+@attribute 青丘狐传说 numeric
+@attribute 快乐大本营 numeric
+@attribute 乡村法制剧场 numeric
+@attribute 微视频大赛 numeric
+@attribute 快乐生活一点通 numeric
+@attribute 杨澜访谈录 numeric
+@attribute 我爱满堂彩 numeric
+@attribute 旋风孝子 numeric
+@attribute 军事科技 numeric
+@attribute 娱乐梦工厂 numeric
+@attribute 美丽中国乡村行 numeric
+@attribute 最强大脑 numeric
+@attribute 娱乐星天地 numeric
+@attribute 专题 numeric
+@attribute 旋风少女 numeric
+@attribute 北平无战事 numeric
+@attribute 西游奇遇记 numeric
+@attribute 每日农经 numeric
+@attribute 爸爸在海外 numeric
+@attribute 闯关东 numeric
+@attribute 百战经典 numeric
+@attribute 动漫世界 numeric
+@attribute 中国经营者 numeric
+@attribute 射雕英雄传 numeric
+@attribute 向幸福出发 numeric
+@attribute 何以笙箫默 numeric
+@attribute 中国故事 numeric
+@attribute 昆仑决 numeric
+@attribute 甄嬛传 numeric
+@attribute 心理访谈 numeric
+@attribute 优漫星未来 numeric
+@attribute 加油小当家 numeric
+@attribute 暴走吧队友 numeric
+@attribute 全球零距离 numeric
+@attribute 天天向上 numeric
+@attribute 中国梦想秀 numeric
+@attribute 绿茵继承者 numeric
+@attribute 等你爱我 numeric
+@attribute 军迷淘天下 numeric
+@attribute 私人订制 numeric
+@attribute 夏洛特烦恼 numeric
+@attribute 职来职往 numeric
+@attribute 逃出生天 numeric
+@attribute 过年啦 numeric
+@attribute 港囧 numeric
+@attribute 文化之旅 numeric
+@attribute 金星秀 numeric
+@attribute 喜羊羊与灰太狼 numeric
+@attribute 班淑传奇 numeric
+@attribute 大声说出来 numeric
+@attribute 一站到底 numeric
+@attribute 财经郎眼 numeric
+@attribute 社会纵横 numeric
+@attribute 神探狄仁杰 numeric
+@attribute 陪你读书 numeric
+@attribute 俺娘田小草 numeric
+@attribute 黑猩猩 numeric
+@attribute 我有传家宝 numeric
+@attribute 幸福一家亲 numeric
+@attribute 追鱼传奇 numeric
+@attribute 文化正午 numeric
+@attribute 商道 numeric
+@attribute 神雕侠侣 numeric
+@attribute 女医明妃传 numeric
+@attribute 古剑奇谭 numeric
+@attribute 群英会 numeric
+@attribute 食鉴出真知 numeric
+@attribute 经典剧场 numeric
+@attribute 寻宝 numeric
+@attribute 天天健康 numeric
+@attribute 走近中国消防 numeric
+@attribute 巨神战击队 numeric
+@attribute 寻找爱的冒险 numeric
+@attribute 泊客中国 numeric
+@attribute 求爱大作战 numeric
+@attribute 西游降魔篇 numeric
+@attribute 闪亮的爸爸 numeric
+@attribute 减出我人生 numeric
+@attribute 五鼠闹东京 numeric
+@attribute 东方新闻 numeric
+@attribute 梨园闯关我挂帅 numeric
+@attribute 明星同乐会 numeric
+@attribute 中国音乐电视 numeric
+@attribute 华豫之门 numeric
+@attribute 直播港澳台 numeric
+@attribute key_class numeric
+
+@data
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+2017-03-14 21:33:45  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 21:33:46  [ main:330 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 21:33:46  [ main:332 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 21:33:46  [ main:333 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 21:33:46  [ main:342 ] - [ INFO ]  Program_info load 完成
+2017-03-14 21:33:46  [ main:373 ] - [ DEBUG ]  @relation base_instances
+
+@attribute 中国之星 numeric
+@attribute 动物世界 numeric
+@attribute 大丈夫 numeric
+@attribute 花千骨 numeric
+@attribute 音乐风云榜 numeric
+@attribute 军事纪实 numeric
+@attribute 一仆二主 numeric
+@attribute 军事报道 numeric
+@attribute 动画片 numeric
+@attribute 第一动画乐园 numeric
+@attribute 普法栏目剧 numeric
+@attribute 勇敢的心 numeric
+@attribute 奔跑吧兄弟 numeric
+@attribute 都市房产报道 numeric
+@attribute 传奇 numeric
+@attribute 超级访问 numeric
+@attribute 笑傲江湖 numeric
+@attribute 天气预报 numeric
+@attribute 综艺喜乐汇 numeric
+@attribute 天下父母 numeric
+@attribute 传家 numeric
+@attribute 寂寞空庭春欲晚 numeric
+@attribute 傻儿传奇 numeric
+@attribute 加油吧实习生 numeric
+@attribute 刀客家族的女人 numeric
+@attribute 剑侠传奇 numeric
+@attribute 玄奘之路 numeric
+@attribute 薛平贵与王宝钏 numeric
+@attribute 王牌对王牌 numeric
+@attribute 红高粱 numeric
+@attribute 法治时空 numeric
+@attribute 天网 numeric
+@attribute 新萧十一郎 numeric
+@attribute 观点致胜 numeric
+@attribute 军旅人生 numeric
+@attribute 人与健康 numeric
+@attribute 打狗棍 numeric
+@attribute 晚间新闻 numeric
+@attribute 法律讲堂 numeric
+@attribute 二胎时代 numeric
+@attribute 夜线 numeric
+@attribute 非常静距离 numeric
+@attribute 吉尼斯中国之夜 numeric
+@attribute 有一说一 numeric
+@attribute 琅琊榜 numeric
+@attribute 防务新观察 numeric
+@attribute 爱情保卫战 numeric
+@attribute 直播全球 numeric
+@attribute 中国成语大会 numeric
+@attribute 光荣绽放 numeric
+@attribute 精彩音乐汇 numeric
+@attribute 知音人间 numeric
+@attribute 热线12 numeric
+@attribute 二十四小时 numeric
+@attribute 爱情回来了 numeric
+@attribute 技行天下 numeric
+@attribute 影视留声机 numeric
+@attribute 江苏新时空 numeric
+@attribute 天津新闻 numeric
+@attribute 幸福请你等等我 numeric
+@attribute 新闻眼 numeric
+@attribute 冰雪奇迹 numeric
+@attribute 战长沙 numeric
+@attribute 陆军一号 numeric
+@attribute 非你莫属 numeric
+@attribute 财经壹资讯 numeric
+@attribute 还是夫妻 numeric
+@attribute 开门大吉 numeric
+@attribute 食尚大转盘 numeric
+@attribute 天天有喜之人间有爱 numeric
+@attribute 乡土 numeric
+@attribute 新闻联播 numeric
+@attribute 西游记 numeric
+@attribute 夜栈 numeric
+@attribute CCTV家庭幽默大赛 numeric
+@attribute 人与自然 numeric
+@attribute 非常故事汇 numeric
+@attribute 农业气象 numeric
+@attribute 12点报道 numeric
+@attribute 幸福来敲门 numeric
+@attribute 卡通乐园 numeric
+@attribute 舌尖上的中国 numeric
+@attribute 现场说法 numeric
+@attribute 聚焦三农 numeric
+@attribute 传奇中国 numeric
+@attribute 新视界 numeric
+@attribute X档案 numeric
+@attribute 越战越勇 numeric
+@attribute 箭在弦上 numeric
+@attribute 记者再报告 numeric
+@attribute 天天有喜 numeric
+@attribute 回声嘹亮 numeric
+@attribute 黄金100秒 numeric
+@attribute 星光大道 numeric
+@attribute 焦点访谈 numeric
+@attribute 武媚娘传奇 numeric
+@attribute 校园好声音 numeric
+@attribute 广东新闻联播 numeric
+@attribute 讲武堂 numeric
+@attribute 来玩吧 numeric
+@attribute 幸福账单 numeric
+@attribute 幽默观察家 numeric
+@attribute 金牌调解 numeric
+@attribute 燃烧吧少年 numeric
+@attribute 朝闻天下 numeric
+@attribute 唐伯虎点秋香 numeric
+@attribute 今日说法 numeric
+@attribute 综艺盛典 numeric
+@attribute 致富经 numeric
+@attribute 你会怎么做 numeric
+@attribute 车天下 numeric
+@attribute 天作之合 numeric
+@attribute 谢谢你来了 numeric
+@attribute 农广天地 numeric
+@attribute 新闻深一度 numeric
+@attribute 平安365 numeric
+@attribute 夕阳红 numeric
+@attribute 过年 numeric
+@attribute 青丘狐传说 numeric
+@attribute 快乐大本营 numeric
+@attribute 乡村法制剧场 numeric
+@attribute 微视频大赛 numeric
+@attribute 快乐生活一点通 numeric
+@attribute 杨澜访谈录 numeric
+@attribute 我爱满堂彩 numeric
+@attribute 旋风孝子 numeric
+@attribute 军事科技 numeric
+@attribute 娱乐梦工厂 numeric
+@attribute 美丽中国乡村行 numeric
+@attribute 最强大脑 numeric
+@attribute 娱乐星天地 numeric
+@attribute 专题 numeric
+@attribute 旋风少女 numeric
+@attribute 北平无战事 numeric
+@attribute 西游奇遇记 numeric
+@attribute 每日农经 numeric
+@attribute 爸爸在海外 numeric
+@attribute 闯关东 numeric
+@attribute 百战经典 numeric
+@attribute 动漫世界 numeric
+@attribute 中国经营者 numeric
+@attribute 射雕英雄传 numeric
+@attribute 向幸福出发 numeric
+@attribute 何以笙箫默 numeric
+@attribute 中国故事 numeric
+@attribute 昆仑决 numeric
+@attribute 甄嬛传 numeric
+@attribute 心理访谈 numeric
+@attribute 优漫星未来 numeric
+@attribute 加油小当家 numeric
+@attribute 暴走吧队友 numeric
+@attribute 全球零距离 numeric
+@attribute 天天向上 numeric
+@attribute 中国梦想秀 numeric
+@attribute 绿茵继承者 numeric
+@attribute 等你爱我 numeric
+@attribute 军迷淘天下 numeric
+@attribute 私人订制 numeric
+@attribute 夏洛特烦恼 numeric
+@attribute 职来职往 numeric
+@attribute 逃出生天 numeric
+@attribute 过年啦 numeric
+@attribute 港囧 numeric
+@attribute 文化之旅 numeric
+@attribute 金星秀 numeric
+@attribute 喜羊羊与灰太狼 numeric
+@attribute 班淑传奇 numeric
+@attribute 大声说出来 numeric
+@attribute 一站到底 numeric
+@attribute 财经郎眼 numeric
+@attribute 社会纵横 numeric
+@attribute 神探狄仁杰 numeric
+@attribute 陪你读书 numeric
+@attribute 俺娘田小草 numeric
+@attribute 黑猩猩 numeric
+@attribute 我有传家宝 numeric
+@attribute 幸福一家亲 numeric
+@attribute 追鱼传奇 numeric
+@attribute 文化正午 numeric
+@attribute 商道 numeric
+@attribute 神雕侠侣 numeric
+@attribute 女医明妃传 numeric
+@attribute 古剑奇谭 numeric
+@attribute 群英会 numeric
+@attribute 食鉴出真知 numeric
+@attribute 经典剧场 numeric
+@attribute 寻宝 numeric
+@attribute 天天健康 numeric
+@attribute 走近中国消防 numeric
+@attribute 巨神战击队 numeric
+@attribute 寻找爱的冒险 numeric
+@attribute 泊客中国 numeric
+@attribute 求爱大作战 numeric
+@attribute 西游降魔篇 numeric
+@attribute 闪亮的爸爸 numeric
+@attribute 减出我人生 numeric
+@attribute 五鼠闹东京 numeric
+@attribute 东方新闻 numeric
+@attribute 梨园闯关我挂帅 numeric
+@attribute 明星同乐会 numeric
+@attribute 中国音乐电视 numeric
+@attribute 华豫之门 numeric
+@attribute 直播港澳台 numeric
+@attribute key_class numeric
+
+@data
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+2017-03-14 21:35:01  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 21:35:02  [ main:309 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 21:35:02  [ main:311 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 21:35:02  [ main:313 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 21:35:02  [ main:320 ] - [ INFO ]  Program_info load 完成
+2017-03-14 21:35:02  [ main:348 ] - [ DEBUG ]  @relation base_instances
+
+@attribute 中国之星 numeric
+@attribute 动物世界 numeric
+@attribute 大丈夫 numeric
+@attribute 花千骨 numeric
+@attribute 音乐风云榜 numeric
+@attribute 军事纪实 numeric
+@attribute 一仆二主 numeric
+@attribute 军事报道 numeric
+@attribute 动画片 numeric
+@attribute 第一动画乐园 numeric
+@attribute 普法栏目剧 numeric
+@attribute 勇敢的心 numeric
+@attribute 奔跑吧兄弟 numeric
+@attribute 都市房产报道 numeric
+@attribute 传奇 numeric
+@attribute 超级访问 numeric
+@attribute 笑傲江湖 numeric
+@attribute 天气预报 numeric
+@attribute 综艺喜乐汇 numeric
+@attribute 天下父母 numeric
+@attribute 传家 numeric
+@attribute 寂寞空庭春欲晚 numeric
+@attribute 傻儿传奇 numeric
+@attribute 加油吧实习生 numeric
+@attribute 刀客家族的女人 numeric
+@attribute 剑侠传奇 numeric
+@attribute 玄奘之路 numeric
+@attribute 薛平贵与王宝钏 numeric
+@attribute 王牌对王牌 numeric
+@attribute 红高粱 numeric
+@attribute 法治时空 numeric
+@attribute 天网 numeric
+@attribute 新萧十一郎 numeric
+@attribute 观点致胜 numeric
+@attribute 军旅人生 numeric
+@attribute 人与健康 numeric
+@attribute 打狗棍 numeric
+@attribute 晚间新闻 numeric
+@attribute 法律讲堂 numeric
+@attribute 二胎时代 numeric
+@attribute 夜线 numeric
+@attribute 非常静距离 numeric
+@attribute 吉尼斯中国之夜 numeric
+@attribute 有一说一 numeric
+@attribute 琅琊榜 numeric
+@attribute 防务新观察 numeric
+@attribute 爱情保卫战 numeric
+@attribute 直播全球 numeric
+@attribute 中国成语大会 numeric
+@attribute 光荣绽放 numeric
+@attribute 精彩音乐汇 numeric
+@attribute 知音人间 numeric
+@attribute 热线12 numeric
+@attribute 二十四小时 numeric
+@attribute 爱情回来了 numeric
+@attribute 技行天下 numeric
+@attribute 影视留声机 numeric
+@attribute 江苏新时空 numeric
+@attribute 天津新闻 numeric
+@attribute 幸福请你等等我 numeric
+@attribute 新闻眼 numeric
+@attribute 冰雪奇迹 numeric
+@attribute 战长沙 numeric
+@attribute 陆军一号 numeric
+@attribute 非你莫属 numeric
+@attribute 财经壹资讯 numeric
+@attribute 还是夫妻 numeric
+@attribute 开门大吉 numeric
+@attribute 食尚大转盘 numeric
+@attribute 天天有喜之人间有爱 numeric
+@attribute 乡土 numeric
+@attribute 新闻联播 numeric
+@attribute 西游记 numeric
+@attribute 夜栈 numeric
+@attribute CCTV家庭幽默大赛 numeric
+@attribute 人与自然 numeric
+@attribute 非常故事汇 numeric
+@attribute 农业气象 numeric
+@attribute 12点报道 numeric
+@attribute 幸福来敲门 numeric
+@attribute 卡通乐园 numeric
+@attribute 舌尖上的中国 numeric
+@attribute 现场说法 numeric
+@attribute 聚焦三农 numeric
+@attribute 传奇中国 numeric
+@attribute 新视界 numeric
+@attribute X档案 numeric
+@attribute 越战越勇 numeric
+@attribute 箭在弦上 numeric
+@attribute 记者再报告 numeric
+@attribute 天天有喜 numeric
+@attribute 回声嘹亮 numeric
+@attribute 黄金100秒 numeric
+@attribute 星光大道 numeric
+@attribute 焦点访谈 numeric
+@attribute 武媚娘传奇 numeric
+@attribute 校园好声音 numeric
+@attribute 广东新闻联播 numeric
+@attribute 讲武堂 numeric
+@attribute 来玩吧 numeric
+@attribute 幸福账单 numeric
+@attribute 幽默观察家 numeric
+@attribute 金牌调解 numeric
+@attribute 燃烧吧少年 numeric
+@attribute 朝闻天下 numeric
+@attribute 唐伯虎点秋香 numeric
+@attribute 今日说法 numeric
+@attribute 综艺盛典 numeric
+@attribute 致富经 numeric
+@attribute 你会怎么做 numeric
+@attribute 车天下 numeric
+@attribute 天作之合 numeric
+@attribute 谢谢你来了 numeric
+@attribute 农广天地 numeric
+@attribute 新闻深一度 numeric
+@attribute 平安365 numeric
+@attribute 夕阳红 numeric
+@attribute 过年 numeric
+@attribute 青丘狐传说 numeric
+@attribute 快乐大本营 numeric
+@attribute 乡村法制剧场 numeric
+@attribute 微视频大赛 numeric
+@attribute 快乐生活一点通 numeric
+@attribute 杨澜访谈录 numeric
+@attribute 我爱满堂彩 numeric
+@attribute 旋风孝子 numeric
+@attribute 军事科技 numeric
+@attribute 娱乐梦工厂 numeric
+@attribute 美丽中国乡村行 numeric
+@attribute 最强大脑 numeric
+@attribute 娱乐星天地 numeric
+@attribute 专题 numeric
+@attribute 旋风少女 numeric
+@attribute 北平无战事 numeric
+@attribute 西游奇遇记 numeric
+@attribute 每日农经 numeric
+@attribute 爸爸在海外 numeric
+@attribute 闯关东 numeric
+@attribute 百战经典 numeric
+@attribute 动漫世界 numeric
+@attribute 中国经营者 numeric
+@attribute 射雕英雄传 numeric
+@attribute 向幸福出发 numeric
+@attribute 何以笙箫默 numeric
+@attribute 中国故事 numeric
+@attribute 昆仑决 numeric
+@attribute 甄嬛传 numeric
+@attribute 心理访谈 numeric
+@attribute 优漫星未来 numeric
+@attribute 加油小当家 numeric
+@attribute 暴走吧队友 numeric
+@attribute 全球零距离 numeric
+@attribute 天天向上 numeric
+@attribute 中国梦想秀 numeric
+@attribute 绿茵继承者 numeric
+@attribute 等你爱我 numeric
+@attribute 军迷淘天下 numeric
+@attribute 私人订制 numeric
+@attribute 夏洛特烦恼 numeric
+@attribute 职来职往 numeric
+@attribute 逃出生天 numeric
+@attribute 过年啦 numeric
+@attribute 港囧 numeric
+@attribute 文化之旅 numeric
+@attribute 金星秀 numeric
+@attribute 喜羊羊与灰太狼 numeric
+@attribute 班淑传奇 numeric
+@attribute 大声说出来 numeric
+@attribute 一站到底 numeric
+@attribute 财经郎眼 numeric
+@attribute 社会纵横 numeric
+@attribute 神探狄仁杰 numeric
+@attribute 陪你读书 numeric
+@attribute 俺娘田小草 numeric
+@attribute 黑猩猩 numeric
+@attribute 我有传家宝 numeric
+@attribute 幸福一家亲 numeric
+@attribute 追鱼传奇 numeric
+@attribute 文化正午 numeric
+@attribute 商道 numeric
+@attribute 神雕侠侣 numeric
+@attribute 女医明妃传 numeric
+@attribute 古剑奇谭 numeric
+@attribute 群英会 numeric
+@attribute 食鉴出真知 numeric
+@attribute 经典剧场 numeric
+@attribute 寻宝 numeric
+@attribute 天天健康 numeric
+@attribute 走近中国消防 numeric
+@attribute 巨神战击队 numeric
+@attribute 寻找爱的冒险 numeric
+@attribute 泊客中国 numeric
+@attribute 求爱大作战 numeric
+@attribute 西游降魔篇 numeric
+@attribute 闪亮的爸爸 numeric
+@attribute 减出我人生 numeric
+@attribute 五鼠闹东京 numeric
+@attribute 东方新闻 numeric
+@attribute 梨园闯关我挂帅 numeric
+@attribute 明星同乐会 numeric
+@attribute 中国音乐电视 numeric
+@attribute 华豫之门 numeric
+@attribute 直播港澳台 numeric
+@attribute key_class numeric
+
+@data
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+2017-03-14 22:23:59  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:23:59  [ main:315 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:23:59  [ main:318 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:23:59  [ main:319 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:23:59  [ main:337 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:26:44  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:26:44  [ main:274 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:26:44  [ main:278 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:26:44  [ main:278 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:26:44  [ main:291 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:26:45  [ main:1069 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1073 ] - [ DEBUG ]  1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1076 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1079 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1083 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1085 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1094 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2017-03-14 22:26:45  [ main:1097 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1100 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2017-03-14 22:26:45  [ main:1103 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1106 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1111 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1114 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1116 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1119 ] - [ DEBUG ]  1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1122 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1126 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2017-03-14 22:26:45  [ main:1128 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1131 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:26:45  [ main:1134 ] - [ DEBUG ]  1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-14 22:29:00  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:29:00  [ main:321 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:29:00  [ main:323 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 几分潇洒几分情调A
+user_summary : 一朵鲜花打扮不出美丽的春天，一个人先进总是单枪匹马，众人先进才能移山填海。－－雷锋
+residence : 
+黑龙江 黑河
+birthday : null
+register_time : null
+education_info : null
+tags : [明星]
+useful_tags : [明星]
+level : Lv.10
+sex : 0
+fans_num : 103
+weibo_num : 257
+attention_num : 170
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:324 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 小妞s高爽爽
+user_summary : 《今晚报》娱乐记者。围城内外，一墙之隔，两样生活。
+residence : 
+天津 南开区
+birthday : 
+天秤座
+register_time : null
+education_info : null
+tags : [名人明星, 点亮小愿望, 不吃回头草, 白天不懂夜的黑, 纠结派, 拖延症明显, 犹豫不决天秤座, 美颜控]
+useful_tags : [明星]
+level : Lv.24
+sex : 0
+fans_num : 467
+weibo_num : 1530
+attention_num : 312
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:326 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : _几月
+user_summary : 有趣又温柔
+residence : 
+上海
+birthday : 
+1997年10月6日
+register_time : null
+education_info : null
+tags : [美食, 旅游, 娱乐, 文艺]
+useful_tags : [美食, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 197
+weibo_num : 18
+attention_num : 182
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:328 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Takeshi-Arale
+user_summary : 几步之遥 一生距离
+residence : 
+湖南
+birthday : 
+1994年1月14日
+register_time : null
+education_info : null
+tags : [新闻趣事, 旅游, 穿衣美容, 英语, 财经, 90后, 经济, 社会, 政治]
+useful_tags : [财经, 财经]
+level : Lv.14
+sex : 0
+fans_num : 464
+weibo_num : 2478
+attention_num : 416
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:329 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你头像屌
+user_summary : Just for my love 曾用名：宝小--坏坏
+residence : 
+河南 开封
+birthday : 
+天蝎座
+register_time : null
+education_info : null
+tags : [天蝎座, pokemon, 谢娜, 张杰, 孙燕姿, 懒人兼傻蛋一枚, hebe田馥甄, 爱情公寓, 95后]
+useful_tags : [明星]
+level : Lv.32
+sex : 1
+fans_num : 1085
+weibo_num : 8623
+attention_num : 1603
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:330 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Miranda_要健身要早睡
+user_summary : 胖成一坨的小白
+residence : 
+辽宁 沈阳
+birthday : 
+12月20日
+register_time : null
+education_info : null
+tags : [教育就业, 军事, IT数码, 文艺, 娱乐]
+useful_tags : [军事, 文艺]
+level : Lv.25
+sex : 0
+fans_num : 240
+weibo_num : 2141
+attention_num : 334
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:331 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 雾雨成殇
+user_summary : 愿得一人心，白首不分离。
+residence : 
+广西 玉林
+birthday : 
+1994年2月17日
+register_time : null
+education_info : null
+tags : [月光族, 外貌协会, 宅男, 听歌, 90后, 大爱黄英]
+useful_tags : [音乐]
+level : Lv.22
+sex : 1
+fans_num : 258
+weibo_num : 2617
+attention_num : 263
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:331 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : fjfan
+user_summary : 天之道，损有余而补不足。是故虚胜实，不足胜有余。
+residence : 
+北京
+birthday : null
+register_time : null
+education_info : null
+tags : [彩妆, 护肤, Leslie, 处女座, 动漫, hunter, OP, 老福, 卡殿, ZS]
+useful_tags : [动漫]
+level : Lv.38
+sex : 1
+fans_num : 1147
+weibo_num : 28231
+attention_num : 193
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:332 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 你放屁丨
+user_summary : 
+residence : 
+浙江 杭州
+birthday : null
+register_time : null
+education_info : null
+tags : [临汾生活, 校园生活, 视频音乐, 重口味, 搞笑幽默]
+useful_tags : [音乐, 搞笑幽默]
+level : Lv.14
+sex : 1
+fans_num : 93
+weibo_num : 3337
+attention_num : 577
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:333 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 墨嵐
+user_summary : 重則輕  輕則重  是厚重的土  也是輕柔的風
+residence : 
+新疆 巴音郭楞
+birthday : 
+1989年12月23日
+register_time : null
+education_info : null
+tags : [视频音乐, 八卦杂谈, 旅游]
+useful_tags : [音乐, 明星]
+level : Lv.22
+sex : 1
+fans_num : 88
+weibo_num : 1347
+attention_num : 249
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:334 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Cha茶dei海
+user_summary : 自娱自乐的高地人
+residence : 
+海外 美国
+birthday : 
+1987年7月4日
+register_time : null
+education_info : null
+tags : [读书分享, 旅游, 美容服饰, 视频音乐, 美国生活]
+useful_tags : [文艺, 音乐]
+level : Lv.14
+sex : 0
+fans_num : 37
+weibo_num : 260
+attention_num : 90
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:335 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 叫她麦子
+user_summary : 中国传媒大学13戏剧影视美术设计      行动缓慢的自由人
+residence : 
+江苏 苏州
+birthday : 
+8月20日
+register_time : null
+education_info : null
+tags : [视频音乐, 花样美男, 美容服饰, 美图摄影, 美食]
+useful_tags : [音乐, 美食]
+level : Lv.23
+sex : 0
+fans_num : 376
+weibo_num : 425
+attention_num : 755
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:336 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 胖凡是个奥迪特
+user_summary : 热爱音乐的前审计狗+怪咖一个~
+residence : 
+云南 保山
+birthday : 
+1990年10月27日
+register_time : null
+education_info : null
+tags : [审计, 财务, 金融, 音乐, 旅游, 美食, lancaster, 唱歌, UNNC, 生活]
+useful_tags : [财经, 音乐, 美食, 音乐]
+level : Lv.36
+sex : 1
+fans_num : 1805
+weibo_num : 9021
+attention_num : 592
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:337 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 系上你鞋带的我的手
+user_summary : 我喜欢这样跟着你，随便你带我到哪里。你的脸慢慢贴近，明天也慢慢地慢慢清晰。我喜欢你爱我的心，轻触我每根手指感应，我知道它在诉说着你承诺言语。
+residence : 
+海外
+birthday : 
+2015年8月21日
+register_time : null
+education_info : null
+tags : [新闻资讯, 旅游, 体育, 文艺, 健康, 美食, IT数码, 娱乐]
+useful_tags : [体育, 文艺, 美食]
+level : Lv.9
+
+sex : 1
+fans_num : 25
+weibo_num : 124
+attention_num : 35
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:340 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 妮子_许个愿吧
+user_summary : 感谢每一天的精彩
+residence : 
+福建 福州
+birthday : null
+register_time : null
+education_info : null
+tags : [美食, 旅游, 健康, 娱乐]
+useful_tags : [美食]
+level : Lv.25
+sex : 0
+fans_num : 167
+weibo_num : 871
+attention_num : 350
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:350 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 虫子的第三只眼
+user_summary : 镜头是我的第三只眼，透过这只眼看的世界可能和你所看的有所不同。
+residence : 
+广东 广州
+birthday : 
+1970年12月16日
+register_time : null
+education_info : null
+tags : [汽车, 音乐, 电影, 摄影, 围棋]
+useful_tags : [音乐, 电影]
+level : Lv.9
+
+sex : 1
+fans_num : 7
+weibo_num : 17
+attention_num : 3
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:351 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : Sundy孫東堯
+user_summary : Mockingbird；
+residence : 
+北京 朝阳区
+birthday : 
+1993年5月19日
+register_time : null
+education_info : null
+tags : [搞笑幽默]
+useful_tags : [搞笑幽默]
+level : Lv.19
+sex : 1
+fans_num : 108
+weibo_num : 193
+attention_num : 103
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:352 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : WM339339
+user_summary : 努力
+residence : 
+上海 黄浦区
+birthday : 
+1995年12月12日
+register_time : null
+education_info : null
+tags : [情绪化, 唱歌, 逛街]
+useful_tags : [音乐]
+level : Lv.30
+sex : 1
+fans_num : 1670
+weibo_num : 1527
+attention_num : 422
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:353 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 虔诚仰望
+user_summary : 不吹晚风 不喝烈酒
+residence : 
+河北 保定
+birthday : 
+1994年10月19日
+register_time : null
+education_info : null
+tags : [新闻资讯, 星座命理, 娱乐, 听相声, 写作, 旅游]
+useful_tags : [文艺]
+level : Lv.14
+sex : 0
+fans_num : 121
+weibo_num : 906
+attention_num : 142
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:354 ] - [ DEBUG ]  ------  begin ------
+SPLITFLAG : ###
+user_name : 长生天恩赐
+user_summary : 根在蒙古。
+residence : 
+内蒙古 呼和浩特
+birthday : 
+1978年9月10日
+register_time : null
+education_info : null
+tags : [内蒙古生活, 旅游, 健康, 投资理财, 汽车, 新闻资讯]
+useful_tags : [财经]
+level : Lv.28
+sex : 1
+fans_num : 1777
+weibo_num : 3577
+attention_num : 584
+is_master : false
+master_tags : null
+------  end ------
+
+2017-03-14 22:29:00  [ main:362 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:29:01  [ main:1150 ] - [ DEBUG ]  0 : 0.0
+2017-03-14 22:29:01  [ main:1156 ] - [ DEBUG ]  1 : 0.0
+2017-03-14 22:29:01  [ main:1157 ] - [ DEBUG ]  2 : 0.0
+2017-03-14 22:29:01  [ main:1157 ] - [ DEBUG ]  3 : 0.0
+2017-03-14 22:29:01  [ main:1157 ] - [ DEBUG ]  4 : 0.0
+2017-03-14 22:29:01  [ main:1158 ] - [ DEBUG ]  5 : 0.0
+2017-03-14 22:29:01  [ main:1158 ] - [ DEBUG ]  6 : 0.0
+2017-03-14 22:29:01  [ main:1158 ] - [ DEBUG ]  7 : 0.0
+2017-03-14 22:29:01  [ main:1158 ] - [ DEBUG ]  8 : 1.0
+2017-03-14 22:29:01  [ main:1159 ] - [ DEBUG ]  9 : 0.0
+2017-03-14 22:29:01  [ main:1159 ] - [ DEBUG ]  10 : 0.0
+2017-03-14 22:29:01  [ main:1159 ] - [ DEBUG ]  11 : 0.0
+2017-03-14 22:29:01  [ main:1159 ] - [ DEBUG ]  12 : 0.0
+2017-03-14 22:29:01  [ main:1159 ] - [ DEBUG ]  13 : 0.0
+2017-03-14 22:29:01  [ main:1160 ] - [ DEBUG ]  14 : 0.0
+2017-03-14 22:29:01  [ main:1160 ] - [ DEBUG ]  15 : 0.0
+2017-03-14 22:29:01  [ main:1160 ] - [ DEBUG ]  16 : 1.0
+2017-03-14 22:29:01  [ main:1160 ] - [ DEBUG ]  17 : 0.0
+2017-03-14 22:29:01  [ main:1160 ] - [ DEBUG ]  18 : 0.0
+2017-03-14 22:29:01  [ main:1161 ] - [ DEBUG ]  19 : 0.0
+2017-03-14 22:45:19  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:45:19  [ main:369 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:45:19  [ main:384 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:48:11  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:48:11  [ main:317 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:48:12  [ main:333 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:55:20  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:55:21  [ main:338 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:55:21  [ main:352 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:56:42  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:56:43  [ main:324 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:56:43  [ main:341 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:57:33  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:57:33  [ main:314 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:57:33  [ main:328 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:57:51  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:57:51  [ main:322 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:57:51  [ main:335 ] - [ INFO ]  Program_info load 完成
+2017-03-14 22:57:51  [ main:373 ] - [ DEBUG ]  @relation base_instances
+
+@attribute 中国之星 {0,1}
+@attribute 动物世界 {0,1}
+@attribute 大丈夫 {0,1}
+@attribute 花千骨 {0,1}
+@attribute 音乐风云榜 {0,1}
+@attribute 军事纪实 {0,1}
+@attribute 一仆二主 {0,1}
+@attribute 军事报道 {0,1}
+@attribute 动画片 {0,1}
+@attribute 第一动画乐园 {0,1}
+@attribute 普法栏目剧 {0,1}
+@attribute 勇敢的心 {0,1}
+@attribute 奔跑吧兄弟 {0,1}
+@attribute 都市房产报道 {0,1}
+@attribute 传奇 {0,1}
+@attribute 超级访问 {0,1}
+@attribute 笑傲江湖 {0,1}
+@attribute 天气预报 {0,1}
+@attribute 综艺喜乐汇 {0,1}
+@attribute 天下父母 {0,1}
+@attribute 传家 {0,1}
+@attribute 寂寞空庭春欲晚 {0,1}
+@attribute 傻儿传奇 {0,1}
+@attribute 加油吧实习生 {0,1}
+@attribute 刀客家族的女人 {0,1}
+@attribute 剑侠传奇 {0,1}
+@attribute 玄奘之路 {0,1}
+@attribute 薛平贵与王宝钏 {0,1}
+@attribute 王牌对王牌 {0,1}
+@attribute 红高粱 {0,1}
+@attribute 法治时空 {0,1}
+@attribute 天网 {0,1}
+@attribute 新萧十一郎 {0,1}
+@attribute 观点致胜 {0,1}
+@attribute 军旅人生 {0,1}
+@attribute 人与健康 {0,1}
+@attribute 打狗棍 {0,1}
+@attribute 晚间新闻 {0,1}
+@attribute 法律讲堂 {0,1}
+@attribute 二胎时代 {0,1}
+@attribute 夜线 {0,1}
+@attribute 非常静距离 {0,1}
+@attribute 吉尼斯中国之夜 {0,1}
+@attribute 有一说一 {0,1}
+@attribute 琅琊榜 {0,1}
+@attribute 防务新观察 {0,1}
+@attribute 爱情保卫战 {0,1}
+@attribute 直播全球 {0,1}
+@attribute 中国成语大会 {0,1}
+@attribute 光荣绽放 {0,1}
+@attribute 精彩音乐汇 {0,1}
+@attribute 知音人间 {0,1}
+@attribute 热线12 {0,1}
+@attribute 二十四小时 {0,1}
+@attribute 爱情回来了 {0,1}
+@attribute 技行天下 {0,1}
+@attribute 影视留声机 {0,1}
+@attribute 江苏新时空 {0,1}
+@attribute 天津新闻 {0,1}
+@attribute 幸福请你等等我 {0,1}
+@attribute 新闻眼 {0,1}
+@attribute 冰雪奇迹 {0,1}
+@attribute 战长沙 {0,1}
+@attribute 陆军一号 {0,1}
+@attribute 非你莫属 {0,1}
+@attribute 财经壹资讯 {0,1}
+@attribute 还是夫妻 {0,1}
+@attribute 开门大吉 {0,1}
+@attribute 食尚大转盘 {0,1}
+@attribute 天天有喜之人间有爱 {0,1}
+@attribute 乡土 {0,1}
+@attribute 新闻联播 {0,1}
+@attribute 西游记 {0,1}
+@attribute 夜栈 {0,1}
+@attribute CCTV家庭幽默大赛 {0,1}
+@attribute 人与自然 {0,1}
+@attribute 非常故事汇 {0,1}
+@attribute 农业气象 {0,1}
+@attribute 12点报道 {0,1}
+@attribute 幸福来敲门 {0,1}
+@attribute 卡通乐园 {0,1}
+@attribute 舌尖上的中国 {0,1}
+@attribute 现场说法 {0,1}
+@attribute 聚焦三农 {0,1}
+@attribute 传奇中国 {0,1}
+@attribute 新视界 {0,1}
+@attribute X档案 {0,1}
+@attribute 越战越勇 {0,1}
+@attribute 箭在弦上 {0,1}
+@attribute 记者再报告 {0,1}
+@attribute 天天有喜 {0,1}
+@attribute 回声嘹亮 {0,1}
+@attribute 黄金100秒 {0,1}
+@attribute 星光大道 {0,1}
+@attribute 焦点访谈 {0,1}
+@attribute 武媚娘传奇 {0,1}
+@attribute 校园好声音 {0,1}
+@attribute 广东新闻联播 {0,1}
+@attribute 讲武堂 {0,1}
+@attribute 来玩吧 {0,1}
+@attribute 幸福账单 {0,1}
+@attribute 幽默观察家 {0,1}
+@attribute 金牌调解 {0,1}
+@attribute 燃烧吧少年 {0,1}
+@attribute 朝闻天下 {0,1}
+@attribute 唐伯虎点秋香 {0,1}
+@attribute 今日说法 {0,1}
+@attribute 综艺盛典 {0,1}
+@attribute 致富经 {0,1}
+@attribute 你会怎么做 {0,1}
+@attribute 车天下 {0,1}
+@attribute 天作之合 {0,1}
+@attribute 谢谢你来了 {0,1}
+@attribute 农广天地 {0,1}
+@attribute 新闻深一度 {0,1}
+@attribute 平安365 {0,1}
+@attribute 夕阳红 {0,1}
+@attribute 过年 {0,1}
+@attribute 青丘狐传说 {0,1}
+@attribute 快乐大本营 {0,1}
+@attribute 乡村法制剧场 {0,1}
+@attribute 微视频大赛 {0,1}
+@attribute 快乐生活一点通 {0,1}
+@attribute 杨澜访谈录 {0,1}
+@attribute 我爱满堂彩 {0,1}
+@attribute 旋风孝子 {0,1}
+@attribute 军事科技 {0,1}
+@attribute 娱乐梦工厂 {0,1}
+@attribute 美丽中国乡村行 {0,1}
+@attribute 最强大脑 {0,1}
+@attribute 娱乐星天地 {0,1}
+@attribute 专题 {0,1}
+@attribute 旋风少女 {0,1}
+@attribute 北平无战事 {0,1}
+@attribute 西游奇遇记 {0,1}
+@attribute 每日农经 {0,1}
+@attribute 爸爸在海外 {0,1}
+@attribute 闯关东 {0,1}
+@attribute 百战经典 {0,1}
+@attribute 动漫世界 {0,1}
+@attribute 中国经营者 {0,1}
+@attribute 射雕英雄传 {0,1}
+@attribute 向幸福出发 {0,1}
+@attribute 何以笙箫默 {0,1}
+@attribute 中国故事 {0,1}
+@attribute 昆仑决 {0,1}
+@attribute 甄嬛传 {0,1}
+@attribute 心理访谈 {0,1}
+@attribute 优漫星未来 {0,1}
+@attribute 加油小当家 {0,1}
+@attribute 暴走吧队友 {0,1}
+@attribute 全球零距离 {0,1}
+@attribute 天天向上 {0,1}
+@attribute 中国梦想秀 {0,1}
+@attribute 绿茵继承者 {0,1}
+@attribute 等你爱我 {0,1}
+@attribute 军迷淘天下 {0,1}
+@attribute 私人订制 {0,1}
+@attribute 夏洛特烦恼 {0,1}
+@attribute 职来职往 {0,1}
+@attribute 逃出生天 {0,1}
+@attribute 过年啦 {0,1}
+@attribute 港囧 {0,1}
+@attribute 文化之旅 {0,1}
+@attribute 金星秀 {0,1}
+@attribute 喜羊羊与灰太狼 {0,1}
+@attribute 班淑传奇 {0,1}
+@attribute 大声说出来 {0,1}
+@attribute 一站到底 {0,1}
+@attribute 财经郎眼 {0,1}
+@attribute 社会纵横 {0,1}
+@attribute 神探狄仁杰 {0,1}
+@attribute 陪你读书 {0,1}
+@attribute 俺娘田小草 {0,1}
+@attribute 黑猩猩 {0,1}
+@attribute 我有传家宝 {0,1}
+@attribute 幸福一家亲 {0,1}
+@attribute 追鱼传奇 {0,1}
+@attribute 文化正午 {0,1}
+@attribute 商道 {0,1}
+@attribute 神雕侠侣 {0,1}
+@attribute 女医明妃传 {0,1}
+@attribute 古剑奇谭 {0,1}
+@attribute 群英会 {0,1}
+@attribute 食鉴出真知 {0,1}
+@attribute 经典剧场 {0,1}
+@attribute 寻宝 {0,1}
+@attribute 天天健康 {0,1}
+@attribute 走近中国消防 {0,1}
+@attribute 巨神战击队 {0,1}
+@attribute 寻找爱的冒险 {0,1}
+@attribute 泊客中国 {0,1}
+@attribute 求爱大作战 {0,1}
+@attribute 西游降魔篇 {0,1}
+@attribute 闪亮的爸爸 {0,1}
+@attribute 减出我人生 {0,1}
+@attribute 五鼠闹东京 {0,1}
+@attribute 东方新闻 {0,1}
+@attribute 梨园闯关我挂帅 {0,1}
+@attribute 明星同乐会 {0,1}
+@attribute 中国音乐电视 {0,1}
+@attribute 华豫之门 {0,1}
+@attribute 直播港澳台 {0,1}
+@attribute key_class {0,1}
+
+@data
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,?
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,?
+2017-03-14 22:58:28  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 22:58:29  [ main:311 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 22:58:29  [ main:320 ] - [ INFO ]  Program_info load 完成
+2017-03-14 23:00:34  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 23:00:35  [ main:751 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 23:00:35  [ main:791 ] - [ INFO ]  Program_info load 完成
+2017-03-14 23:02:45  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 23:02:45  [ main:352 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 23:02:45  [ main:375 ] - [ INFO ]  Program_info load 完成
+2017-03-14 23:13:54  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 23:13:54  [ main:295 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 23:13:54  [ main:310 ] - [ INFO ]  Program_info load 完成
+2017-03-14 23:16:23  [ main:0 ] - [ ERROR ]  
+readDocsFromFile 中异常, 文件:Data/user_program_data.txt
+第15860行,
+{ "_id" : { "$oid" : "58c56f19dbbea086c828cd92" }, "come_from" : "港囧", "id" : "1184134175", "name" : "taoxinxu释凡", "summary" : "京城资深影评人、记者,曾担任夸克电影网主编，曾逼迫冯小刚2013年贺岁档气急败坏连发7条微博大骂", "residence" : "\n北京 崇文区", "birthday" : null, "level" : "Lv.44", "sex" : 
+2017-03-14 23:16:23  [ main:307 ] - [ INFO ]  加载SinaUserInfo结束，可用的数据有3247条
+2017-03-14 23:16:23  [ main:315 ] - [ INFO ]  Program_info load 完成
